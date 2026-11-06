@@ -1,0 +1,17 @@
+language: english
+data_root: /content/drive/MyDrive/FastSpeech2_Assignment
+dataset_repo: ai4bharat/Svarah
+training:
+  seed: 42
+  batch_size: 4
+  max_epochs: 50
+  sample_every: 5
+acoustics:
+  sample_rate: 22050
+  hop: 256
+  fft: 1024
+  window: hann
+  center: true
+  pad_mode: reflect
+  n_mels: 80
+  fmax: 8000

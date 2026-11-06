@@ -1,0 +1,3161 @@
+[
+  {
+    "loader_index": 0,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000026.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 26,
+    "split": "validation",
+    "text": "స్వర్ణ కారుడు."
+  },
+  {
+    "loader_index": 1,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000035.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 35,
+    "split": "validation",
+    "text": "లోహితుడికి తన భార్యపైనా పిల్లల పైనా ప్రేమ జాస్తి వాళ్ళు సుఖపడందులకే అతను బంగారం చేసే పిచ్చిలో పడి పోయాడు ఇప్పుడుకూడా అతను వాళ్ళ సుఖంకోసమే ధర్మగుప్తుడి సొమ్ము కాజేయ నిశ్చయించాడు."
+  },
+  {
+    "loader_index": 2,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000037.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 37,
+    "split": "validation",
+    "text": "తెల్లవారే లోపుగా లోహితుడు వెండీ బంగారాలను అటకమీద పెట్టి పిడకలు కప్పి ధర్మగుప్తుడి శవాన్ని తాళపుచెవులతో సహా దొడ్లో నిలువు లోతున పాతేసి గొయ్యి పూడ్చేశాడు."
+  },
+  {
+    "loader_index": 3,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000059.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 59,
+    "split": "validation",
+    "text": "ఏదీ నువ్వు కాస్త సహాయంచెయ్యి తోక పట్టుకు లాగు అన్నది ఆవు."
+  },
+  {
+    "loader_index": 4,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000063.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 63,
+    "split": "validation",
+    "text": "పట్టుకోక ఊరుకుంటానా ఏమిటి అంటూ ఆవు ముందుకు పరుగుతీసింది కుందేలు వెల్లికలా పడుకుని పొట్ట చెక్కలయ్యేట్టు నవ్వసాగింది."
+  },
+  {
+    "loader_index": 5,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000071.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 71,
+    "split": "validation",
+    "text": "ముందు ముకుందుణ్ణి ఇంటినుంచి వెళ్ళ గొట్టాలి అన్నాడొక బంధువు."
+  },
+  {
+    "loader_index": 6,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000095.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 95,
+    "split": "validation",
+    "text": "తండ్రి పోయే సమయానికి దూరదేశంలో ఉన్న, ముకుందుడు వార్త తెలిసి ఆస్తి స్వాధీన పరుచుకునేటందుకు వచ్చాడు."
+  },
+  {
+    "loader_index": 7,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000117.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 117,
+    "split": "validation",
+    "text": "కొడుకు అలాగే చేశాడు అతను ఒక చచ్చిన పందిని గోతంలో పెట్టి భుజానవేసుకుని ఒక్కొక్క స్నేహితుడి దగ్గరికే వెళ్ళి తండ్రి చెప్పిన ప్రకారం అన్నాడు ఒక్కరూ అతనికి సహాయం చేయ్యలేదు."
+  },
+  {
+    "loader_index": 8,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000134.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 134,
+    "split": "validation",
+    "text": "కాని వాన ఎంతకీ తగ్గలేదు ఎండు కట్టెలన్నీ తడిసిపోయి ఉంటాయి తడి కట్టెలు తీసుకుపోతే ఎవరూ కొనరు ఈ పూట పిల్లలకు గంజికూడా ప్రాప్తంలేదు."
+  },
+  {
+    "loader_index": 9,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000144.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 144,
+    "split": "validation",
+    "text": "అదిమొదలు బలభద్రుడి కుటుంబానికి తిండికొరత లేదు వాళ్ళు పూటపూటా షడ్రసోపేతంగా భోజంచేస్తున్నారు వాళ్ళు తినటమే గాక ఇరుగుపొరుగు వాళ్ళను పిలిచి వారికి కూడా మ్రుష్టాన్న భోజనం పెడుతున్నారు."
+  },
+  {
+    "loader_index": 10,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000185.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 185,
+    "split": "validation",
+    "text": "మొసళ్ళు పూర్తిగా మాంసాహారులు వాటి దవడలు బలంగానూ వాటి దంతాలు వాడిగాను ఉంటాయి."
+  },
+  {
+    "loader_index": 11,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000212.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 212,
+    "split": "validation",
+    "text": "ఆ బిడారు నేపాళ దేశపు రాజుది ఆయన అత్యవసరమైన రాచకార్యంమీద ఢిల్లీ మహామంత్రిగారికోసం వస్తున్నాడు."
+  },
+  {
+    "loader_index": 12,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000222.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 222,
+    "split": "validation",
+    "text": "నేపాళ మహారాజు తన భటులను పిలిచి ఈ చుట్టు పక్కల ఎక్కడైనా సన్యాసి ఉంటే ఇక్కడికి తీసుకురండి అని ఆజ్ఞాపించాడు."
+  },
+  {
+    "loader_index": 13,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000223.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 223,
+    "split": "validation",
+    "text": "త్వరలోనే విజ్ఞానచంద్రుణ్ణి నేపాళరాజు గుడారానికి తెచ్చారు ఆయనకు హంసతూలికా తల్పంమీద కూచుని విజయదాసు కనిపించాడు నేపాళమహారాజే స్వయంగా ఆయనకు విసురుతున్నాడు."
+  },
+  {
+    "loader_index": 14,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000233.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 233,
+    "split": "validation",
+    "text": "భీమసేనుడు సంతోషంగా ఒప్పుకుని మరుగుజ్జు వెంట బయలు దేరాడు ఇద్దరు కలిసి కొద్ది రోజులలో కాశీరాజ్యం చేరారు."
+  },
+  {
+    "loader_index": 15,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000253.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 253,
+    "split": "validation",
+    "text": "రాజు మరింత బిర్రబిగిసి నా నోటంట వచ్చినమాట, జరిగితీరవలసిందే అన్నాడు."
+  },
+  {
+    "loader_index": 16,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000257.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 257,
+    "split": "validation",
+    "text": "ఇదిచూసి రాజుగారు లోలోపల చాలా సంతోషించాడు ఆయన కోపావేశంలో నోరు జారి కూతుర్ని అంతమాట అనేశాడేగాని ఆ మాట నిలబెట్టుకోవలిసి వస్తుందేమోనని ఆయన చాలా భయపడ్డాడు."
+  },
+  {
+    "loader_index": 17,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000258.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 258,
+    "split": "validation",
+    "text": "ఒకనాడు మంత్రివచ్చి రాజుతో మహా రాజా అమ్మాయిగారి పెళ్లి విషయం ఏమి ఆలోచించారు అని అడిగాడు."
+  },
+  {
+    "loader_index": 18,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000301.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 301,
+    "split": "validation",
+    "text": "జీనులేమిటి వాటిని మేమెన్నడూ చూడనేలేదే అన్నాడు రాజు ఆశ్చర్యంగా అలా అయితే అనుమతి ఇవ్వండి నేను ఒకటీ రెండురోజుల్లో జీను తయారు చేసి ఇస్తాను దానిలో ఉండే సౌకర్యం మీకే తెలిసివస్తుంది అన్నాను."
+  },
+  {
+    "loader_index": 19,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000330.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 330,
+    "split": "validation",
+    "text": "సుబుద్ధి లేచినిలబడి చంద్రవర్మను కౌగిలించుకున్నాడు."
+  },
+  {
+    "loader_index": 20,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000331.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 331,
+    "split": "validation",
+    "text": "మనం దుస్తులు మార్చుకుందాం నీ బదులు నేను ఖైదులో కూచుంటాను నా దుస్తులతో నువ్వు తప్పించుకో అన్నాడు చంద్రవర్మ."
+  },
+  {
+    "loader_index": 21,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000342.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 342,
+    "split": "validation",
+    "text": "చంద్రవర్మకు ఊర్మిళకు యధావిధిగా వివాహం జరిగింది అతను పాటలీ పుత్రానికీ జయంతదేశానికీకూడా రాజై చాలా కాలం పరిపాలించాడు."
+  },
+  {
+    "loader_index": 22,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000347.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 347,
+    "split": "validation",
+    "text": "కుణాళుడు అడవి చేరేసరికి మిట్ట మధ్యాహ్నమయింది అడవిలో నీడగా చల్లగా ఉంటుంది ఎండవేడి తగ్గేదాకా ఆడుతూ పాడుతూ అడవిలోనే నడిచే ఉద్దేశంతో కుణాళుడు అడవిలోకి ప్రవేశించబోయాడు."
+  },
+  {
+    "loader_index": 23,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000355.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 355,
+    "split": "validation",
+    "text": "కుణాలా కొండ ఎక్కకు చచ్చిపోగలవు."
+  },
+  {
+    "loader_index": 24,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000366.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 366,
+    "split": "validation",
+    "text": "భువన సుందరి."
+  },
+  {
+    "loader_index": 25,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000368.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 368,
+    "split": "validation",
+    "text": "గ్రీకు నౌకలలోనుంచి తీరానికి దూకిన మొదటివాడు చంద్రప్రభుడైతే రెండవ వాడు వజ్రకాయుడు అతని వెనకనే గ్రీకు బలాలన్నీ దిగి సమరానికి తలపడ్డాయి."
+  },
+  {
+    "loader_index": 26,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000393.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 393,
+    "split": "validation",
+    "text": "అతని గుడారం వెతికితే నిజం తెలిసి పోతుంది అన్నాడు రూపధరుడు."
+  },
+  {
+    "loader_index": 27,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000405.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 405,
+    "split": "validation",
+    "text": "ఈ ప్రశ్న వినాగానే శాయమ్మకు చెప్పలేని ఆనందం కలిగింది ముక్కోటి దేవతల్లారా దణ్ణాలమ్మా దణ్ణాలు అను కున్నది మనసులో."
+  },
+  {
+    "loader_index": 28,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000407.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 407,
+    "split": "validation",
+    "text": "జమిందారు నౌకర్లు సంగతంతా చెప్పారు జమిందారు గారి అమ్మాయికి జబ్బు చేసింది ఘన వైద్యులంతా వచ్చి మందులిచ్చినా వ్యాధి నయం కాలేదు అందుకని యిక చిట్కా వైద్యులతో వ్యాధులు కుదిర్చే వారి కోసం వెతుకుతున్నారు వాళ్ళు."
+  },
+  {
+    "loader_index": 29,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000410.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 410,
+    "split": "validation",
+    "text": "అతడెక్కడ ఉన్నాడు ఎక్కడ ఎక్కడ అంటూ వాళ్లు వేగిరపడ్డారు."
+  },
+  {
+    "loader_index": 30,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000419.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 419,
+    "split": "validation",
+    "text": "అంత ఘనవైద్యులు మీరు యిలా మాట్లాడటం, బాగాలేదు అన్నాడు జమీందారు నౌకర్లు."
+  },
+  {
+    "loader_index": 31,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000425.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 425,
+    "split": "validation",
+    "text": "అయ్యా అమ్మాయికి హఠత్తుగా ఒక్కసారి మాట పడిపోయింది వివాహ ముహూర్తం నిర్ణయించాంకూడా అవతల మాటపోతుంది నేను గట్టి చిక్కులో పడిపోయాను ఇంతకీ అమ్మాయికి పట్టుకున్న వ్యాధి ఏమిటంటారు అన్నాడు."
+  },
+  {
+    "loader_index": 32,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000431.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 431,
+    "split": "validation",
+    "text": "తరువాత గంగన్న జమీందారు కూతురు చేతి నాడి పరీక్షించి."
+  },
+  {
+    "loader_index": 33,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000452.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 452,
+    "split": "validation",
+    "text": "ఈ మాట విని బ్రహ్మరాక్షసి చాలా సంతోషించింది."
+  },
+  {
+    "loader_index": 34,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000454.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 454,
+    "split": "validation",
+    "text": "రాజుగారు లేడిని బ్రహ్మరాక్షసికిచ్చేసి తన రాజధానికి తిరిగి వచ్చి తన మంత్రితో జరిగినదంతా చెప్పాడు."
+  },
+  {
+    "loader_index": 35,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000481.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 481,
+    "split": "validation",
+    "text": "అప్పుడు వారు తండ్రితో నాన్నా మేము ఋతుధ్వజుడనే, రాజపుత్రుడి స్నేహం సంపాదించి, పగలల్లా అతనివెంటే ఉంటున్నాం అంత తెలివిగలవాడు మంచివాడు పరాక్రమవంతుడు మూడులోకాలలోనూ ఉండడు అని చెప్పారు."
+  },
+  {
+    "loader_index": 36,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000483.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 483,
+    "split": "validation",
+    "text": "అతనికి మనం ఏమి ఇవ్వగలం అతనికి ఏలోటూ లేదు ఎప్పటికైనా మన వల్ల అతనికి కావలిసిన సహాయం ఏమన్నా ఉంటే అలాగే చేద్దాంలే అన్నారు నాగ కుమారులు, సంతోషంగా."
+  },
+  {
+    "loader_index": 37,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000493.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 493,
+    "split": "validation",
+    "text": "తరువాత ఋతుధ్వజుడు మదాలసను తన గుర్రం మీద ఎక్కించుకొని తాను వచ్చిన దారినే భూలోకానికి ప్రయాణమైనాడు దారిలో పాతాళకేతుడు తన బలాలతోసహా అతనికి అడ్డుతగిలి ఎక్కడికి పోతావు ఆగు, అని అరిచాడు."
+  },
+  {
+    "loader_index": 38,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000503.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 503,
+    "split": "validation",
+    "text": "మీ రెందుకు ధుఃఖిస్తున్నారు ఏం జరిగింది అని అతను తల్లి దండ్రులను అడిగాడు తన మరణవార్త వినటంవల్ల కలిగిన ధుఃఖంతో మదాలస చనిపోయిన సంగతి వారు అతనికి చెప్పారు."
+  },
+  {
+    "loader_index": 39,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000507.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 507,
+    "split": "validation",
+    "text": "ఆ పాటకు శివుడు ముగ్ధుడై నాయనా ఇంత చక్కగా పాడి నన్ను సంతోషపెట్టావు నీకు నేనేమి సహయంచేసేది అన్నాడు."
+  },
+  {
+    "loader_index": 40,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000508.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 508,
+    "split": "validation",
+    "text": "దేవా మదాలసను బతికించు అన్నాడు నాగరాజు."
+  },
+  {
+    "loader_index": 41,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000518.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 518,
+    "split": "validation",
+    "text": "మీరు నాగులైతే నాకేమి చింతలేదు మీరు ఎప్పటికీ నాకు ఆప్తమిత్రులే అన్నాడు రాజకుమారుడు."
+  },
+  {
+    "loader_index": 42,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000521.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 521,
+    "split": "validation",
+    "text": "నా కుమార్తెను చూసినట్టయితే నీ అభిప్రాయం తప్పక మార్చుకుంటావు అంటూ నాగరాజు మదాలసకోసం నాగ కన్యలను పంపాడు మదాలస వచ్చింది భార్యాభర్తలు ఒకరినొకరు చూసుకుని ఆనందపరవశులైపోయారు."
+  },
+  {
+    "loader_index": 43,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000528.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 528,
+    "split": "validation",
+    "text": "హేమచంద్రుడు రాజుగారి దర్శనం చేసుకుని నిద్రాహారాలు లేకుండా, ప్రయాణంచేసి ఎంతో దూరంనుంచి తమరిని చూడవచ్చాను ఇవి నేను వేసిన బొమ్మలు వాటిని చూస్తే నా శక్తి తమకే తెలుస్తుంది అన్నాడు."
+  },
+  {
+    "loader_index": 44,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000548.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 548,
+    "split": "validation",
+    "text": "రాజుగారివెంట ఉండే హాస్యగాడు మటుకు నాది ఎంత పాడు పుట్టుకోగాని నాకు వట్టి గోడే కనిపిస్తున్నది దానిమీద బొమ్మే లేదు అన్నాడు."
+  },
+  {
+    "loader_index": 45,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000553.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 553,
+    "split": "validation",
+    "text": "పరుసవేది."
+  },
+  {
+    "loader_index": 46,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000556.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 556,
+    "split": "validation",
+    "text": "ఆయన చాలా ముసలివాడు ఆయన పేరు విశ్వకర్మ."
+  },
+  {
+    "loader_index": 47,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000569.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 569,
+    "split": "validation",
+    "text": "ఇందుకుగాను నేను నీకు విధించ బోయే శిక్ష తెలుసుగదా అన్నాడు సుకేత మహారాజు కోపంగా."
+  },
+  {
+    "loader_index": 48,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000623.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 623,
+    "split": "validation",
+    "text": "వీరిలో హేమ తండ్రి పేరు హేమాంబరుడు ఆయన సూర్యోపాసకుడు తన కుమార్తెను గ్రీకులనుంచి తిరిగి తెచ్చుకునే ఉద్దేశంతో కొన్ని కానుకలు తీసుకుపోయి రారాజు కు అర్పించి తన కుమార్తెను విడిచిపెట్టమని కోరాడు."
+  },
+  {
+    "loader_index": 49,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000661.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 661,
+    "split": "validation",
+    "text": "గురువు గడ్డం నిమురుకుంటూ అజ్ఞాని వాడిపాపం వాడికే తగులుతుంది వాడిమీద చెయ్యిచేసుకోకండి అన్నాడు."
+  },
+  {
+    "loader_index": 50,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000662.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 662,
+    "split": "validation",
+    "text": "ఈ మాటతో శిష్యుడు మరింత రెచ్చి పోయి గురువుకేసి తిరిగి ఆమాట అనక ఇంకేమంటావు నీ బతుకంతా నాకు తెలుసును ఎవరన్నా నన్ను అంటుకున్నారో నీ గుట్టంతా, బయట పెట్టేస్తాను అని మళ్లీ బిగ్గరగా అరిచాడు."
+  },
+  {
+    "loader_index": 51,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000669.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 669,
+    "split": "validation",
+    "text": "ఎవరు గొప్ప."
+  },
+  {
+    "loader_index": 52,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000675.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 675,
+    "split": "validation",
+    "text": "రెండు రధాలు ఒకదాని కొకటి, అంత దూరంలో ఆగాయి."
+  },
+  {
+    "loader_index": 53,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000676.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 676,
+    "split": "validation",
+    "text": "మేము ముందుకు వెళ్లాలి నీ రధాన్ని వెనక్కు తిప్పుకో అన్నాడు కాశీరాజు సారధి."
+  },
+  {
+    "loader_index": 54,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000679.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 679,
+    "split": "validation",
+    "text": "మీ రాజుగారిలో అధిక్యత ఏమిటి అని అడిగాడు కాశీ రాజు సారధి."
+  },
+  {
+    "loader_index": 55,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000681.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 681,
+    "split": "validation",
+    "text": "దళహం దళహస్య ఖిపతిమల్లికో ముదునా ముదుల సాధుంపి సాధునా జేతి అసాధుంపి అసాధునా ఏతాదిసో ఆయం రాజా మగా ఉయ్యాహి సారధి."
+  },
+  {
+    "loader_index": 56,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000682.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 682,
+    "split": "validation",
+    "text": "మా మల్లిక మహారాజుగారు దుష్టులకు దుష్టుడు సజ్జనులకు సజ్జనుడు మంచి తనాన్ని మంచితనంతో బహూకరిస్తాడు దుర్మార్గాల్ని దుర్మార్గంతో నిగ్రహిస్తాడు."
+  },
+  {
+    "loader_index": 57,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000688.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 688,
+    "split": "validation",
+    "text": "ఒకనాడు ఒక నక్క ఆహారంకోసం అడివి అంతటా తిరుగుతూ ఉన్న సమయంలో దానికి ఒక పెద్ద సింహం కనిపించింది."
+  },
+  {
+    "loader_index": 58,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000691.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 691,
+    "split": "validation",
+    "text": "అదిమొదలు సింహం గుహలో పడుకుని ఉండేది బయట నక్క కావలి ఉండేది ఏదైనా జంతువు కనిపించినప్పుడు నక్క గుహలోకి తొంగిచూసి మహారాజా మంచి అవకాశం అని కేకపెట్టేది."
+  },
+  {
+    "loader_index": 59,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000697.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 697,
+    "split": "validation",
+    "text": "అందుచేత అదిఒకనాడు, సింహంతో మహారాజా నాకుకూడా మీలాగే వేటాడాలని చాలా కోరికగా ఉంది అన్నది."
+  },
+  {
+    "loader_index": 60,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000782.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 782,
+    "split": "validation",
+    "text": "నాకు మతిపోతున్నది నాకేమీ ఆలోచన పోవటంలేదు ఏం చెయ్యాలో ఆలోచించాలి నువ్వు వెళ్ళు అంటూ శీలయాజి ఇంటికి తిరిగి వచ్చాడు."
+  },
+  {
+    "loader_index": 61,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000783.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 783,
+    "split": "validation",
+    "text": "తెల్లవారగానే ఆయన గుడికి వెళ్ళి పూజారితో ఆ తొడుగు తీసెయ్యి అన్నాడు విగ్రహాన్ని చూపిస్తూ."
+  },
+  {
+    "loader_index": 62,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000785.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 785,
+    "split": "validation",
+    "text": "దొంగలు ఎత్తుకుపోతారేమో ఎందుకైనా మంచిది మా ఇంటో దాస్తాను అన్నాడు శీలయాజి."
+  },
+  {
+    "loader_index": 63,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000799.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 799,
+    "split": "validation",
+    "text": "రాజుకు ఈ విధంగా మౌనభంగం కాగానే భేతాళుడు శవంతోసహా మాయమై మళ్లీ చెట్టెక్కాడు."
+  },
+  {
+    "loader_index": 64,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000809.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 809,
+    "split": "validation",
+    "text": "రాజు నవ్వి ఇది ఏమంత కఠినమైన పనికాదే మందు తాగేటప్పుడు ఏనుగులను గురించీ గుర్రాలను గురించీ ఎందుకుకాలోచించవలసి వస్తుంది అన్నాడు."
+  },
+  {
+    "loader_index": 65,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000812.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 812,
+    "split": "validation",
+    "text": "ఇలా ఒక నెల గడిచాక రాజు బ్రాహ్మణ్ణి పిలిచి ఏమయ్యా ఎప్పుడు నీ మందు తాగుదామన్నా ఏనుగులూ గుర్రాలూ తప్ప ఇంకేమీ జ్ఞాపకం రావటంలేదు ఏం చెసేట్టు అని అడిగాడు."
+  },
+  {
+    "loader_index": 66,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000817.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 817,
+    "split": "validation",
+    "text": "బ్రాహ్మడు ఆ డబ్బుతో దేవళం మరమ్మత్తు చేసి దేవుడికి నిత్యమూ పూజచేస్తూ సుఖంగా జీవించాడు."
+  },
+  {
+    "loader_index": 67,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000865.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 865,
+    "split": "validation",
+    "text": "మరి పెళ్ళికూతు రెక్కడ అన్నారు మంత్రులు ఆశ్చర్యంగా."
+  },
+  {
+    "loader_index": 68,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000877.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 877,
+    "split": "validation",
+    "text": "చూశావు గదా విషం పూర్తిగా లాగి వెయ్యటం నాకు సాధ్యం కాలేదు నీవు కూడా సత్యప్రమాణంచేసి చూడు ఫలితం ఉండవచ్చు అని కృష్ణద్వైపాయనుడు, మాండవ్యుడితో అన్నాడు."
+  },
+  {
+    "loader_index": 69,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000898.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 898,
+    "split": "validation",
+    "text": "వర్తకుడు ఎంత ప్రాధేయపడినా లాభం లేకపోయింది వడ్డీవ్యాపారస్తుడు వర్తకుడు కలిసి ఎమెస్సానగరంలో ఉండే కాజీవద్ద ఫిర్యాదుచేసి ఆయన తీర్పు తెలుసుకోవటానికి బయలుదేరారు."
+  },
+  {
+    "loader_index": 70,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000914.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 914,
+    "split": "validation",
+    "text": "చేసేది లేక వడ్డీ వ్యాపారస్తుడు రెండు వందల దీనారాలూ కాజీముందు పెట్టాడు."
+  },
+  {
+    "loader_index": 71,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000918.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 918,
+    "split": "validation",
+    "text": "కంచరగాడిద యజమాని, చేసేదిలేక తీర్పు ప్రకారం నూరు దీనారాలూ కాజీ ఎదుట ఉంచాడు."
+  },
+  {
+    "loader_index": 72,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000957.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 957,
+    "split": "validation",
+    "text": "నీకు వివాహం తప్పదు కాని వైరాగ్యం చెడకుండా వివాహం జరగాలంటే అందుకు ఒకటే ఉపాయం నన్ను పెళ్లాడు అన్నాడు సహదేవుడు."
+  },
+  {
+    "loader_index": 73,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000970.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 970,
+    "split": "validation",
+    "text": "గాడిద జోస్యం."
+  },
+  {
+    "loader_index": 74,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/000976.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 976,
+    "split": "validation",
+    "text": "చేర్పిస్తాను ఇప్పుడేం తొందర వచ్చిందిరా అన్నాడు సిద్ధంతిగారు."
+  },
+  {
+    "loader_index": 75,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001018.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1018,
+    "split": "validation",
+    "text": "నక్క రుసరుసలాడుతూ ఆ కుందేలును చంపి తిన్న రోజున నా రోగమంతా పోతుంది అన్నది."
+  },
+  {
+    "loader_index": 76,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001025.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1025,
+    "split": "validation",
+    "text": "ఈ లోపుగా తోడేలు కుందేలు ఇంటికి వెళ్లితలుపు తట్టింది లోపలినుంచి కుందేలు ఎవరు వారు అని అడిగింది."
+  },
+  {
+    "loader_index": 77,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001027.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1027,
+    "split": "validation",
+    "text": "అశుభవార్తే ఐతే అవశ్యం వినాలి అంటూ కుందేలు తలుపు తెరిచింది."
+  },
+  {
+    "loader_index": 78,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001047.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1047,
+    "split": "validation",
+    "text": "అలా కూర్చొనివుండగా ఎదుట గుబురుగా పెరిగిన ఒక పొదలో రెండు చుక్కలు మెరిసినాయి ఇదేమిటా అని తెరిచిచూడగా ఆ మెరిసే చుక్కలు ఉడతమ్మ కన్నులని తెలుసుకున్నాడు."
+  },
+  {
+    "loader_index": 79,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001049.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1049,
+    "split": "validation",
+    "text": "బెన్నయ్య ఈ విధమైన పూర్వగాధ తలపోసుకొంటూ వుండగా ఉడతమ్మ కొడుకు ఉరకలేసుకుంటూ అక్కడికి వచ్చాడు అమ్మా అమ్మా చెట్టుకింద ఎవరో ఒక అమ్మాయి పడిపోయింది రా రా అని పిలిచాడు."
+  },
+  {
+    "loader_index": 80,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001051.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1051,
+    "split": "validation",
+    "text": "పాపం ఈ అమ్మాయి ఎందుచేతనో పడిపోయింది దీనిని ఇక్కడ వదిలేసి పోతే ఎలా అంది ఉడతమ్మ."
+  },
+  {
+    "loader_index": 81,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001052.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1052,
+    "split": "validation",
+    "text": "ఉడతమ్మ కొడుకు ఆ పిల్లను లేవదీద్దామని ఎత్తుకోబోయాడు వాడివల్ల కాలేదు అప్పుడు బెన్నయ్య ఆ అందాలపిల్లని ఎత్తుకున్నాడు అంతా కలిసి బెన్నయ్య ఇంటికి వచ్చారు ఆ అమ్మాయిని చాపమీద కూర్చోబెట్టారు ఉడతమ్మ విచారంతో తల వంచి ఈ పిల్లకు ప్రాణం వున్నట్టు లేదు అన్నది సంశయిస్తూ మెల్లగా శ్వాస ఆడుతుందో లేదో అని బెన్నయ్య పిల్లముక్కుకింద వేలెట్టాడు ఉడతమ్మ చెప్పింది చివరకు బెన్నయ్య బాబూ ఇది నిజమైన మనిషి పిల్ల కాదుసుమా మనిషిబొమ్మను, ఎవళ్ళో మరిచిపోయి, వదిలేసి పోయారు."
+  },
+  {
+    "loader_index": 82,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001059.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1059,
+    "split": "validation",
+    "text": "ఉడతమ్మా కొడుకూ బొమ్మను యెత్తుకొన్న బెన్నయ్య బయల్దేరి, చెట్టుతొర్రలో వుండే గూబయ్యదగ్గరకి వెళ్ళారు ఆయనతో బెన్నయ్య, బొమ్మసంగతి అంతా చెప్పి దానికి కాస్తంత ప్రాణంపొయ్యమని కోరాడు."
+  },
+  {
+    "loader_index": 83,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001060.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1060,
+    "split": "validation",
+    "text": "అంతా విని గూబయ్య ఓరి మీ గోల కూలా ఈ బొమ్మకా ప్రాణం పొయ్యమంటున్నారు ఇక్కడికి పది ఆమడల దూరంలో కీకారణ్యాల్లో ఒక పెనుభూతం ఉన్నది ఆ పెనుభూతం ఒక పిల్లను పెంచుకుంటున్నది ఆ పిల్ల ఆడుకునే బొమ్మ సుమా ఈ బొమ్మ పెనుభూతానికి తెలిస్తే, నిన్ను బతకనిస్తుందా కనుక దీనిని ఎక్కడ తీశావో, అక్కడ పెట్టేసి రా అన్నాడు."
+  },
+  {
+    "loader_index": 84,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001072.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1072,
+    "split": "validation",
+    "text": "ఆనాడు భయపడి పారిపోయిన మరుగుజ్జులంతా క్రమంగా మళ్ళీ వచ్చి ద్వీపం చేరుకొన్నారు బెన్నయ్య ఒక యింటివాడైనందుకు వాళ్లందరూ సంతోషించారు వాడు వెలిగించినటువంటి రకరకాల బాణాసంచాలు చూచి అమితాశ్చర్యం పొందారు."
+  },
+  {
+    "loader_index": 85,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001111.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1111,
+    "split": "validation",
+    "text": "వాకిలి దూరని లడ్డు."
+  },
+  {
+    "loader_index": 86,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001123.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1123,
+    "split": "validation",
+    "text": "వాకిలి దూరని లడ్డు ఆ మనిషి మాత్రం ఎక్కడ తెస్తాడు పందెం ఓడినందుకు ఓరూపాయి ఇస్తాడులే అని పక్కన వున్న వాళ్ళు అన్నారు."
+  },
+  {
+    "loader_index": 87,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001126.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1126,
+    "split": "validation",
+    "text": "మరేమిటనుకున్నా నీయిష్టంవచ్చిన వాకిలి కోరుకో దూరదని చూపిస్తాను అన్నాడు దోసకాయల మనిషి."
+  },
+  {
+    "loader_index": 88,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001137.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1137,
+    "split": "validation",
+    "text": "నిజమే నిజమే అంటూ యజమాని చేసిన వంటలో ముప్పాతికకు పైగా బలవంతాన తినేశాడు అంత రుచిగల పదార్థాలు తాను తినకపోతే తన నౌకరు తినేస్తాడని ఆయన బెంగ."
+  },
+  {
+    "loader_index": 89,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001156.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1156,
+    "split": "validation",
+    "text": "ఆరుగురు సైనికులు సమరసేనుడు ఒకవైపు ఇరవైమంది భటులు వారి నాయకుడైన వ్యాఘ్రదత్తుడు ఒకవైపు యిక ఆ ప్రదేశమంతా వాళ్ళ కేకలతో హెచ్చరికలతో మార్మోగిపోసాగింది."
+  },
+  {
+    "loader_index": 90,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001206.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1206,
+    "split": "validation",
+    "text": "నన్నేం చెయ్యమన్నావు బిచ్చమెత్తుకో అన్నాడు రాక్షసుడు."
+  },
+  {
+    "loader_index": 91,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001214.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1214,
+    "split": "validation",
+    "text": "ఇక్కడ పెళ్లివారివెంట నది దాటి కాలినడకన నడిచిపోతున్న రూపవతి ముసలి బ్రాహ్మణుడిదగ్గెరకు వెళ్లి వినయంగా."
+  },
+  {
+    "loader_index": 92,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001237.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1237,
+    "split": "validation",
+    "text": "మర్నాటినుంచీ సుల్తాన్ లో పెద్ద మార్పు కలిగింది ఆయన తన భోగాలను కట్టిపెట్టి రాచకార్యాలు శ్రద్ధగా చుడసాగాడు వ్యవసాయము వివిధ వృత్తులు వృద్ధిచెంది రాజ్యం త్వరలోనే బాగుపడింది."
+  },
+  {
+    "loader_index": 93,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001246.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1246,
+    "split": "validation",
+    "text": "దొంగలు మాణిక్యం గొంతు తెలుసుకోలేకపోయారు పక్క కిటికీదగ్గిరికీ వచ్చారు మాణిక్యం వారికి మూటలు అందించింది."
+  },
+  {
+    "loader_index": 94,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001254.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1254,
+    "split": "validation",
+    "text": "ఆ పూటే పెళ్ళయింది సాయంకాలం పెళ్ళివారు పెళ్ళికూతురుతో సహా తరలివెళ్లారు చీకటి పడేసరికల్లా వారు ఆడవిలో తమ మేడ చేరుకున్నారు."
+  },
+  {
+    "loader_index": 95,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001262.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1262,
+    "split": "validation",
+    "text": "ఈ ఉపాయం పిచ్చిపుల్లయ్యకు నచ్చింది వాడు మాణిక్యం నడుముకు తాడు కట్టి కిటికీగుండా కింది తోటలోకి దించాడు మాణిక్యం కింద దిగుతూనే తాడు ఊడదీసుకుని దాన్ని ఒక మేక నడుముకు కట్టి పారిపోయింది."
+  },
+  {
+    "loader_index": 96,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001272.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1272,
+    "split": "validation",
+    "text": "ఏమే, అమ్మాయ్ ఇలా వచ్చావు నీ భర్త ఏడీ ఒక్కత్తివే వచ్చావేం ఒంటినిండా రక్తపుమరకలేమిటి అని పురోహితుడు ప్రశ్నల వర్షం కురిపించాడు."
+  },
+  {
+    "loader_index": 97,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001283.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1283,
+    "split": "validation",
+    "text": "వీరంతా ఎవరు అని దొంగలు పురోహితుణ్ణి అనుమానంగా అడిగారు."
+  },
+  {
+    "loader_index": 98,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001304.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1304,
+    "split": "validation",
+    "text": "ఇద్దరము నిద్రపోవటం క్షేమంకాదు నేను ముందు నిద్రపోతాను నువ్వు మేలుకుని ఉండి ఏమైనా జరిగితే నన్ను నిద్రలేపు ఒక నిద్ర అయినాక నేను కాపలా కాస్తాను నువ్వు నిద్రపోదువుగాని అన్నాడు సర్దారు తమ్ముడు."
+  },
+  {
+    "loader_index": 99,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001305.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1305,
+    "split": "validation",
+    "text": "రాజు పశ్చాత్తాపం నటిస్తూ లేదు లేదు, మేలుకునే ఉంటాను అన్నాడు కాని వేటచేత బాగా అలిసి ఉండడంచేత రాజుకు కళ్ళు మూతలు పడిపోతున్నాయి ఆయన నిద్రమత్తుతో పక్కకు పడిపోయి, నిద్రపోసాగాడు."
+  },
+  {
+    "loader_index": 100,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001307.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1307,
+    "split": "validation",
+    "text": "అవ్వా భోజనం పెట్టు అన్నారు వాళ్ళు దొంగిలించిన సొమ్ము ఒక మూలపోగుపెడుతూ."
+  },
+  {
+    "loader_index": 101,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001312.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1312,
+    "split": "validation",
+    "text": "దొంగ గబగబా నిచ్చెన ఎక్కాడు వాడి తల పైకి రాగానే తమ్ముడు ఒక్క వేటున వాడి కంఠం నరికేసి శవాన్ని పైకి ఈడ్చేశాడు."
+  },
+  {
+    "loader_index": 102,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001337.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1337,
+    "split": "validation",
+    "text": "అప్పుడు రాజు వారిని పిలిపించి ఎందుకిలా వాదులాడుతున్నారు అని అడిగాడు."
+  },
+  {
+    "loader_index": 103,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001339.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1339,
+    "split": "validation",
+    "text": "నిజం చెప్పకుంటే యావజ్జీవ ఖైదు వేయిస్తా అన్నాడు రాజు."
+  },
+  {
+    "loader_index": 104,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001346.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1346,
+    "split": "validation",
+    "text": "అప్పుడు ముసల్మానులందరికీ అక్బరు చక్రవర్తి చెప్పినది నిజమైన మాట అని నమ్మకం కలిగింది."
+  },
+  {
+    "loader_index": 105,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001360.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1360,
+    "split": "validation",
+    "text": "కొద్దిసేపట్లోనే బండీ సమీపానికి వచ్చింది చూశారా దీవాన్ సాహెబ్ మీరు ఓడిపోయారు అన్నాడు షావుకారు."
+  },
+  {
+    "loader_index": 106,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001361.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1361,
+    "split": "validation",
+    "text": "అవును మీరు నా తల నరికెయ్యండి అన్నాడు దీవాన్ సాహెబ్ దేనికిలే పోనివ్వండి అన్నాడు షావుకారు ఇకనైనా ఈ ఠాకుర్ వంశస్థుడు ప్రగల్భాలు మానేస్తాడన్న ఆశతో."
+  },
+  {
+    "loader_index": 107,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001366.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1366,
+    "split": "validation",
+    "text": "అయితే ఈ క్షణంనుంచీ నా తలను రక్షించే భారమూ పోషించే భారము షావుకారుదే దాన్నిగురించి నా పూచీ ఎంతమాత్రమూ లేదు అన్నాడాయన."
+  },
+  {
+    "loader_index": 108,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001373.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1373,
+    "split": "validation",
+    "text": "దీవాన్ సాహెబ్ కు హడలెత్తింది."
+  },
+  {
+    "loader_index": 109,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001379.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1379,
+    "split": "validation",
+    "text": "మారు మాట్లాడకుండా దీవాన్ సాహెబ్ తనకున్న కొద్దిపాటి ఆస్తినీ షావుకారు పేర పెట్టి ఆ గ్రామం విడిచి వెళ్లిపోయాడు."
+  },
+  {
+    "loader_index": 110,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001384.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1384,
+    "split": "validation",
+    "text": "నేనూ దొంగనే ఈ ప్రాంతంలో మీరు చాలా గొప్ప దొంగలని విని మీకు నాశక్తి చూపించ వచ్చాను అన్నాడు రాజు."
+  },
+  {
+    "loader_index": 111,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001387.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1387,
+    "split": "validation",
+    "text": "నేను ఎంతలావు తాళాన్నయినా పూచికపుడకతో తీయగలను అన్నాడు మొదటిదొంగ."
+  },
+  {
+    "loader_index": 112,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001394.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1394,
+    "split": "validation",
+    "text": "అయితే రాజుగారి ఖజానా కొల్ల గొడదాం అన్నాడు రాజు."
+  },
+  {
+    "loader_index": 113,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001398.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1398,
+    "split": "validation",
+    "text": "మర్నాడు వారిని విచారణకు దర్బారుకు తెచ్చారు సింహాసనం మీద కూర్చున్న రాజును చూస్తూనే మూడో దొంగ తన తోటివాళ్లతో ఈయనే నిన్న మనతో దొంగతనానికి వచ్చిన కొత్త మనిషి అని చెప్పాడు."
+  },
+  {
+    "loader_index": 114,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001401.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1401,
+    "split": "validation",
+    "text": "రాజుగారిని ఒక్క ప్రశ్న అడగాలి అదే మా ఆఖరు కోరిక అన్నారు దొంగలు."
+  },
+  {
+    "loader_index": 115,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001403.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1403,
+    "split": "validation",
+    "text": "మీరు నన్ను అడగబోయే ప్రశ్న ఏమిటి అన్నాడాయన."
+  },
+  {
+    "loader_index": 116,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001414.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1414,
+    "split": "validation",
+    "text": "దీనికి ఆయీ ఎంతమాత్రమూ ఒప్పుకోలేదు వెళితే ఇద్దరమూ వెళదాము లేకపోతే చలికి ఇద్దరమూ చద్దాము మీ చలి బట్టలు తీసుకుని మీ మరణానికి కారణభూతుణ్ణి కావటానికి అసలే ఒప్పను అన్నాడు అయీ."
+  },
+  {
+    "loader_index": 117,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001424.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1424,
+    "split": "validation",
+    "text": "ఆయీ ప్రతిఏడూ ఆ సమాధివద్దకు వెళ్లి అశ్రుతర్పణాలు విడిచివస్తు వుండేవాడు ఆయన అనంతరం చీనాదేశంలోని కవి పండితులకు తావూ సమాధి ఒక గొప్ప యాత్రాస్థలం అయింది."
+  },
+  {
+    "loader_index": 118,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001443.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1443,
+    "split": "validation",
+    "text": "ఈ భాగ్యానికేనా తల్లీ, మా అందరికీ పాతివ్రత్యం భోధించావు అంటూ అమ్మలక్కలంతా ఆవిణ్ణి దెప్పుడుమాటలని మరీ వెళ్ళారు."
+  },
+  {
+    "loader_index": 119,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001453.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1453,
+    "split": "validation",
+    "text": "సమరసేనుడు యిక ఆలోచించి లాభం లేదనుకున్నాడు గుహకు అవతల వున్నవాళ్లు శత్రువులైనా మిత్రులైనా ఏదో ప్రమాద పరిస్థితిలో వున్నారు కనుక ధైర్యంగా ముందుకు పోయి అదేదో తెలుసుకోవటం అవసరమనుకున్నాడు."
+  },
+  {
+    "loader_index": 120,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001455.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1455,
+    "split": "validation",
+    "text": "సమరసేనుడు మరికొద్ది దూరం వెళ్లే సరికి ముగ్గురు మనుష్యులు మోకాలు బంటి నీటిలో స్తంభాలకు బంధింపబడి వుండటం కంటబడింది సమరసేనుణ్ణి చూడగానే వాళ్ళు మరింత పెద్దగా అరుస్తూ గోలచేయసాగారు."
+  },
+  {
+    "loader_index": 121,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001464.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1464,
+    "split": "validation",
+    "text": "సేనానీ అతణ్ణి మీరు చంపిన మొసలి పొట్టన బెట్టుకున్నది సమయానికి మీరు రాకున్నట్టయితే మేమూ అతడి దారినే పోయేవాళ్లం అని జవాబిచ్చారు సైనికులు."
+  },
+  {
+    "loader_index": 122,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001475.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1475,
+    "split": "validation",
+    "text": "తమ నాయకుడే యిలా అనేసరికి యికసైనికుల భయానికీ భీతికీ కట్టలు తెగినై వాళ్ళు ఒకరి ముఖాలు ఒకరు చూసుకున్నారు మరీ భీతిచెందిన ఒక సైనికుడు వెనక్కు పారిపోసాగాడు."
+  },
+  {
+    "loader_index": 123,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001500.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1500,
+    "split": "validation",
+    "text": "మర్నాడు పాటగాడిని వధ్యశిలవద్దకు వెళ్ళమని ఆజ్ఞ అయింది వాడక్కడికి వెళ్లేసరికి శిలవద్ద ఒక ఖైదీ వున్నాడు పక్కన తలారి వున్నాడు ఖైదీ శిరచ్ఛేదం చూడటానికి వచ్చిన ప్రజలు చుట్టూ గుమిగూడి వున్నారు."
+  },
+  {
+    "loader_index": 124,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001521.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1521,
+    "split": "validation",
+    "text": "ఈసారి సభికులు మరింత గట్టిగా నవ్వారు రాజుగారికి కూడా నవ్వు వచ్చింది."
+  },
+  {
+    "loader_index": 125,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001523.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1523,
+    "split": "validation",
+    "text": "చెరువు తలగబడుతున్నదిగదా అందుచేత చెరువులోని చేపలు ఒడ్డుకు వచ్చి సమీపాన గల చెట్లెక్కిఉంటాయి, అన్నాడు బద్రీప్రసాదు."
+  },
+  {
+    "loader_index": 126,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001525.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1525,
+    "split": "validation",
+    "text": "ఇంత హాస్యం పుట్టించగలవాణ్ణి ఆస్థానంనుంచి వెళ్ళగొట్టటం మాకిష్టం లేదు నేటి నుంచి బద్రీ ప్రసాద్ ను ఆస్థాన విదూషకుడుగా నియమిస్తున్నాం అన్నాడు రాజు."
+  },
+  {
+    "loader_index": 127,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001527.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1527,
+    "split": "validation",
+    "text": "బ్రహ్మదత్తుడు కాశీరాజ్యాన్ని పాలించే కాలంలో ఒకప్పుడు బోధిసత్వుడు ఒక గ్రామంలో అస్పృశ్యుడుగా జన్మించాడు అతడు ఒక చిత్రమైన మంత్రం నేర్చుకొని ఆకాలంలో మామిడిపళ్లు పండించేవాడు."
+  },
+  {
+    "loader_index": 128,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001534.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1534,
+    "split": "validation",
+    "text": "ఈవిధంగా మంత్రం నేర్చిన సునందుడు తన ఇంటికి చేరుకొని ఆకాలపు మామిడి పళ్ళు సృష్ఠించి విక్రయిస్తూ వచ్చాడు."
+  },
+  {
+    "loader_index": 129,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001540.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1540,
+    "split": "validation",
+    "text": "రాజు అలా అనేసరికి సునందుడు చేసేది లేక తలవంచుకొని ఇంటికి వెళ్లిపోయాడు."
+  },
+  {
+    "loader_index": 130,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001541.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1541,
+    "split": "validation",
+    "text": "కాలం గడిచింది."
+  },
+  {
+    "loader_index": 131,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001569.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1569,
+    "split": "validation",
+    "text": "నేను సింహంతో పోరాడతాను ఏర్పాట్లు చేయండి అన్నాడు యువరాజు మర్నాడే సింహంతో యువరాజు పోరాటం ఏర్పాటయింది."
+  },
+  {
+    "loader_index": 132,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001573.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1573,
+    "split": "validation",
+    "text": "పట్టాభిషిక్తుడికి అందరూ కట్నాలు చదివించేటప్పుడు రాజుగారు నేను వేరే ఏ కట్నాలూ తీసుకురాలేదు నాకుమార్తెను తెచ్చాను ఆమెను స్వీకరించు అన్నాడు."
+  },
+  {
+    "loader_index": 133,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001596.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1596,
+    "split": "validation",
+    "text": "ఇద్దరూ బయలుదేరి కొండగుహలన్నీ తిరిగి పులులు దాచిన ధనమంతా కొల్లగొట్టి ఇళ్లకు తీసుకుపోయి ధనికులైనారు."
+  },
+  {
+    "loader_index": 134,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001601.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1601,
+    "split": "validation",
+    "text": "రేపు రా అన్నాడు మార్కా."
+  },
+  {
+    "loader_index": 135,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001609.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1609,
+    "split": "validation",
+    "text": "కాళ్ళు ఝాడించటం కాదు ఇప్పుడైనా నా అరగానీ నా మొహాన పారేస్తావా అన్నాడు పేదరైతు కోపంగా మార్కా వద్దనుంచి, జవాబు లేదు."
+  },
+  {
+    "loader_index": 136,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001616.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1616,
+    "split": "validation",
+    "text": "చూడవోయ్ అయిందేదో అయిపోయింది నీకు నాకు పేచీ దేనికి మన అదృష్టం బాగుండి ఇంత సొమ్ము మనపాలపడింది మూడోకంటివాడికి తెలియకుండా దీన్ని న్యాయంగా సమంగా పంచుకుందాం పట్టు అన్నాడు మార్కా పేదరైతుతో."
+  },
+  {
+    "loader_index": 137,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001628.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1628,
+    "split": "validation",
+    "text": "మరి నా అదృష్టం ఏమైనట్టు అని అడిగాడు అన్న."
+  },
+  {
+    "loader_index": 138,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001630.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1630,
+    "split": "validation",
+    "text": "ఇదా వీడు చేస్తున్న పనీ అంటూ అన్న లావుపాటి చింతబరికె ఒకటి చేతపట్టి పొదదగ్గరికి వెళ్ళి నిశ్చింతగా పడుకుని, నిద్రపోతున్న తన అదృష్టాన్ని, చూశాడు."
+  },
+  {
+    "loader_index": 139,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001631.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1631,
+    "split": "validation",
+    "text": "రెండు చురకలు తగిలేసరికి అన్న అదృష్టం లేచికూచుని నన్నెందుకు కొడుతావు నిష్కారణంగా నేనేం చేశాను నీకు అన్నాడు."
+  },
+  {
+    "loader_index": 140,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001649.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1649,
+    "split": "validation",
+    "text": "సూర్యబింబం అడ్డుకొలత ఎనిమిది లక్షల అరవైఏడువేల మైళ్ళు దాని పైభాగం యొక్క వైశాల్యం సుమారు రెండువందల ముప్పై వేలకోట్ల, చదరపుమైళ్ళు భూమి యొక్క వైశాల్యానికి పన్నెండువేల రెట్లు."
+  },
+  {
+    "loader_index": 141,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001652.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1652,
+    "split": "validation",
+    "text": "సూర్యగోళం పైభాగంలో సుమారు పదివేల డిగ్రీల వేడి ఉంటుంది సూర్య బింబం కాంతి ఒకటిన్నర కోట్ల కోట్ల కోట్ల కొవ్వొత్తుల కాంతికి సమానం."
+  },
+  {
+    "loader_index": 142,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001666.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1666,
+    "split": "validation",
+    "text": "పరిచారకులు పోయి నగరమంతా గాలించారు యువకుని జాడ లేదు రాజుకు మతిపోయినట్టయింది."
+  },
+  {
+    "loader_index": 143,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001667.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1667,
+    "split": "validation",
+    "text": "ఈ విచారం ముదిరి మనోవ్యాధిగా పరిణమించి రాజు మంచంపట్టాడు ఎంతటి ఘనవైద్యులు వచ్చినా వ్యాధి కుదరలేదు."
+  },
+  {
+    "loader_index": 144,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001671.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1671,
+    "split": "validation",
+    "text": "అందుచేత విచారపడి ఏమీ లాభంలేదు ఈ ప్రపంచంలో ప్రతివస్తువూ కొంత కాలానికల్లా కంటికి కనపడకుండా నశించి పోతున్నది కదా అని అడిగాడు బోధిసత్వుడు అవునన్నాడు రాజు."
+  },
+  {
+    "loader_index": 145,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001681.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1681,
+    "split": "validation",
+    "text": "మందరదేవుడు దఢాలున గుర్రం దిగాడు అంతలో అతడి రక్షణకై బయలుదేరిన సైనికులు నలుగురు అక్కడికి చేరారు అందరూ మరణబాధతో విలపిస్తున్న అంగరక్షకులకేసి నడిచారు."
+  },
+  {
+    "loader_index": 146,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001718.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1718,
+    "split": "validation",
+    "text": "బ్రాహ్మడు కాస్సేపు పడవవాడి కేసి చూసి నీది ఎంత నిరర్ధమైన బ్రతుకు అన్నాడు వాడు చేస్తున్న శరీరశ్రమ చూస్తే వాడి మీద రోత పుట్టింది, బ్రాహ్మడికి."
+  },
+  {
+    "loader_index": 147,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001765.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1765,
+    "split": "validation",
+    "text": "ఈ ప్రశ్నకు విజయకేతు ఈవిధంగా చెప్పాడు."
+  },
+  {
+    "loader_index": 148,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001771.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1771,
+    "split": "validation",
+    "text": "దండనీతి గురించి నీ అభిప్రాయం ఏమిటి అని అడిగాడు రాజు."
+  },
+  {
+    "loader_index": 149,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001788.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1788,
+    "split": "validation",
+    "text": "చోళరాజు మనమీదికి పంచమాంగ బలాలతో ఎత్తిరాబోతున్న సంగతి నీకింకా తెలియలేదా అన్నాడు రాజు."
+  },
+  {
+    "loader_index": 150,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001789.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1789,
+    "split": "validation",
+    "text": "విహారభద్రుడు తెల్లబోయి పంచమాంగ బలాలేమిటి మహారాజా అన్నాడు ఆనాటి సేనలలో రధ గజ తురగ పదాతిబలాలుండేవి వీటినే చతురంగ బలాలనేవారు."
+  },
+  {
+    "loader_index": 151,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001798.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1798,
+    "split": "validation",
+    "text": "వాణ్ణి చూడగానే మేనమామలు ఆ దుత్త ఏమిట్రా అని అడిగారు."
+  },
+  {
+    "loader_index": 152,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001799.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1799,
+    "split": "validation",
+    "text": "మీ ఊళ్ళో నిప్పూ నీరూ పుట్టవుటగా అందుకని వెంటతెచ్చాను అన్నాడు వాడు."
+  },
+  {
+    "loader_index": 153,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001806.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1806,
+    "split": "validation",
+    "text": "పోనీ అతని ఇష్ట ప్రకారమే చేద్దామని నువ్వులన్నిటిని రైతులు మంగలాల్లో పోయించి వేపించారు."
+  },
+  {
+    "loader_index": 154,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001807.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1807,
+    "split": "validation",
+    "text": "ఇక వీటిని తీసుకుపోయి పొలంలో చల్లండి కమ్మని నువ్వులు కాస్తాయి ఇంతకాలంగా వ్యవసాయం చేస్తున్నారు పచ్చినువ్వులు చల్లి పచ్చినువ్వులు పడించటం తప్ప మీ కింకేమీ తెలీదు అన్నాడు ఆసామి రెండో కొడుకు."
+  },
+  {
+    "loader_index": 155,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001811.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1811,
+    "split": "validation",
+    "text": "ఒరే యింకో నెలకు, సంక్రాంతి పండగ వస్తుందిట మీరు ఈ నెలరోజులు ఒక్క పశువుకు కూడా పాలు పిండకండి సంక్రాంతినాడు నెలరోజుల పాలూ ఒక్క సారి పిండేసి ఎక్కువ ధరకు అమ్మేద్దాం."
+  },
+  {
+    "loader_index": 156,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001825.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1825,
+    "split": "validation",
+    "text": "సరుకు చూసినవారల్లా కొందుమూ గాని దూది శుద్దంగా లేదు బాబూ అన్నారు ఈ దూది ఇక ఎక్కడా అమ్ముడు పోదని, తేలిపోయింది."
+  },
+  {
+    "loader_index": 157,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001828.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1828,
+    "split": "validation",
+    "text": "బంగారం నిప్పులో పెట్టి శుద్ధి చేస్తున్నాను బాబూ అన్నాడు కమసాలి."
+  },
+  {
+    "loader_index": 158,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001831.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1831,
+    "split": "validation",
+    "text": "నమ్మక ద్రోహం."
+  },
+  {
+    "loader_index": 159,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001834.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1834,
+    "split": "validation",
+    "text": "హిరణ్యగుప్తుడు దానిని పరీక్షించి రత్నం మేలుజాతిది నువ్వు అమ్మేటట్టయితే లక్షదీనారాలిచ్చి కొంటాను అమ్మి డబ్బు వుంచుకుంటావా అని అడిగాడు హిరణ్యగుప్తుడు."
+  },
+  {
+    "loader_index": 160,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001842.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1842,
+    "split": "validation",
+    "text": "కూలి మూటలు మోసుకునేవాణ్ణి నాకు దానిమీద ఏం రాసుందో ఎట్లా తెలుస్తుంది దొరా అన్నాడు వసుధరుడు."
+  },
+  {
+    "loader_index": 161,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001850.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1850,
+    "split": "validation",
+    "text": "అతను నిర్ధోషి అయిదువేల దీనారాలూ తిరిగి ఇప్పించి అతన్ని పంపించి వేయండి రత్నదత్తుణ్ణి ఒకసారి రప్పించండి అన్నాడు యౌగంధరాయణుడు."
+  },
+  {
+    "loader_index": 162,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001867.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1867,
+    "split": "validation",
+    "text": "నెహ్రూ తిరిగిన, అనేక దేశాలలో ఆయన అక్కడి రాజకీయ ప్రముఖులతోపాటు సంయుక్తప్రకటనలపై సంతకాలు చేశారు ఈ ప్రకటనలు ప్రపంచశాంతికి, చాలా అవసరమైనవి."
+  },
+  {
+    "loader_index": 163,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001884.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1884,
+    "split": "validation",
+    "text": "కటాహకుడు అనేకవిధాల తిట్లుతిని వేరొక చోటికిపోయి ఇతరులను దూషిస్తూ సకల భోగాలు అనుభవిస్తాడు."
+  },
+  {
+    "loader_index": 164,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001903.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1903,
+    "split": "validation",
+    "text": "దైవాయత్తం అంటూ ఆ పిచ్చివాడు విరగబడి నవ్వాడు."
+  },
+  {
+    "loader_index": 165,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001910.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1910,
+    "split": "validation",
+    "text": "మారిన తలలు."
+  },
+  {
+    "loader_index": 166,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001912.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1912,
+    "split": "validation",
+    "text": "రాజా నీవు చాలా జ్ఞానివి అందుచేత నిన్ను మరొక ధర్మసందేహం అడుగుతాను ముందు ఈ కథవిను అంటూ బేతాళుడు ఈ విధంగా కథ చెప్పాడు."
+  },
+  {
+    "loader_index": 167,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001916.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1916,
+    "split": "validation",
+    "text": "అనుకున్నట్టే పెళ్ళి స్థిరమయ్యింది మంచి లగ్నంచూసి ధవళుడికీ మదనసుందరికీ పెళ్లిచేసేశారు ధవళుడు భార్యను తన యింటికి తెచ్చుకుని సుఖంగా కాపురుం చేసున్నాడు."
+  },
+  {
+    "loader_index": 168,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001927.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1927,
+    "split": "validation",
+    "text": "రాజు మౌనం ఈ విధంగా భంగం కాగానే బేతాళుడు శవంతోసహా అంతర్ధానమై చెట్టెక్కి కూచున్నాడు."
+  },
+  {
+    "loader_index": 169,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001939.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1939,
+    "split": "validation",
+    "text": "మర్నాడు ఉదయం మంత్రి పహరావాన్ని పిలిచి ఏరా రాత్రి చిన్నబాబుగారు సరిగ్గా నిద్రపోయారా అని అడిగాడు."
+  },
+  {
+    "loader_index": 170,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001951.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1951,
+    "split": "validation",
+    "text": "ఇల్లు బయలుదేరిన ఆరుమాసాలకు భార్యాభర్తలు కళింగనగరంచేరారు వర్తకులవద్ద ఇందుమతి నగలు కొన్ని విక్రయించి పేదరాసి పెద్దమ్మ ఇంట బసచేశారు."
+  },
+  {
+    "loader_index": 171,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001959.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1959,
+    "split": "validation",
+    "text": "నాయనా నువ్వు మా కొడుకువే మాదగ్గరే ఉండిపో అన్నాడు కళింగరాజు సుదర్శనుడు ఒప్పుకున్నాడు."
+  },
+  {
+    "loader_index": 172,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001964.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1964,
+    "split": "validation",
+    "text": "ఈ విధంగా అనేకమంది పండితులు భోజరాజు దగ్గర, శ్లోకాలు చదివి బహుమానానికి బదులు పరాభవంపొంది తిరిగి వెళ్ళిపోయేవారు ఇలా వెళ్ళిపోయినవారిలో ఒకడు దూరదేశంలో ఉన్న కాళిదాసుకు తటస్థపడ్డాడు."
+  },
+  {
+    "loader_index": 173,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001970.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1970,
+    "split": "validation",
+    "text": "అందుచేత సభలో అందరూ అది కొత్త శ్లోకమేనని ఒప్పుకున్నారు భోజరాజు పండితుడికి లక్ష పారితోచకం ఇప్పించి అయ్యా మీరు ఈ శ్లోకం ఈ విధంగా ఎందుకు రాయవలిసి వచ్చింది దీని ఆంతర్యమేమిటి అని అడిగాడు."
+  },
+  {
+    "loader_index": 174,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/001973.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 1973,
+    "split": "validation",
+    "text": "ఈ శ్లోకం రాసి పంపినది కాళిదాసేనని భోజరాజుకు అనుమానం కలిగింది ఆయన సపరివారంగా బయలుదేరి ఆపండితుడి వెంట వెళ్ళి కాళిదాసును కలుసుకుని క్షమాపణ చెప్పుకుని ధారానగరానికి తిరిగి తెచ్చుకున్నాడు."
+  },
+  {
+    "loader_index": 175,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002016.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2016,
+    "split": "validation",
+    "text": "గోహా తన అహారం ముట్టకపోవటం చూసి మిగిలినివాళ్ళు గోహా భోజనం చెయ్యవేం అని అడిగారు."
+  },
+  {
+    "loader_index": 176,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002021.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2021,
+    "split": "validation",
+    "text": "పొరబాటా గ్రహపాటా."
+  },
+  {
+    "loader_index": 177,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002032.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2032,
+    "split": "validation",
+    "text": "ఈ ఉపాయం విని రుమణ్వంతుడు నివ్వెరపోయాడు."
+  },
+  {
+    "loader_index": 178,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002038.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2038,
+    "split": "validation",
+    "text": "ఆమెతో యౌగంధరాయణుడు ఈ విధంగా చెప్పాడు."
+  },
+  {
+    "loader_index": 179,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002046.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2046,
+    "split": "validation",
+    "text": "దేవీ విచారించకు ఈ వివాహంతో శత్రువు మిత్రుడౌతున్నాడు ఇక మహారాజుమాటంటావా నీపై ఆయన ప్రేమ ఎన్నటికీ మారదు అని వసంతకుడు వాసవదత్తను ఊరడించాడు."
+  },
+  {
+    "loader_index": 180,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002054.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2054,
+    "split": "validation",
+    "text": "ఆమె ఎక్కడున్నది అన్నాడురాజు పద్మావతి తన చెలికత్తెలను పిలిచి అవంతికను పంపమనేసరికి ఆమె ఇక్కడ లేదమ్మా గోపాలమహారాజుగారి విడిదికి వెళ్ళింది అన్నారు చెలికత్తెలు."
+  },
+  {
+    "loader_index": 181,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002062.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2062,
+    "split": "validation",
+    "text": "వ్యాపారి తన గుర్రాన్ని ఇంటి బయటవున్న కట్టుకొయ్యకు కట్టేసి ఆ రాత్రి ఆ యింటనే పడుకున్నాడు."
+  },
+  {
+    "loader_index": 182,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002063.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2063,
+    "split": "validation",
+    "text": "వ్యాపారి తెల్లవారి లేచి తిరిగి ప్రయాణం సాగింతామని బయటికి వచ్చేసరికి అతని గుర్రాన్ని ఇంటి యజమాని ఎక్కడికో తోలుకుపోబోతున్నాడు."
+  },
+  {
+    "loader_index": 183,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002077.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2077,
+    "split": "validation",
+    "text": "ఈ మాటకు గ్రామాధికారి సిగ్గుపడి వ్యాపారి గుర్రాన్ని వ్యాపారికిప్పించి ఇంటి యజమానిని గట్టిగా హెచ్చరించాడు."
+  },
+  {
+    "loader_index": 184,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002113.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2113,
+    "split": "validation",
+    "text": "అతడు మనకు మిత్రుడే రహస్య సంకేతం గ్రహించాడు అది ఒక శివదత్తుడి అనుచరులకు తప్ప మరొకరికి తెలియదు రండి పోదాం అన్నాడు సైనికుడు."
+  },
+  {
+    "loader_index": 185,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002116.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2116,
+    "split": "validation",
+    "text": "అతడి మాటలు విన్న తరువాత అందరికీ ప్రాణం తెప్పరిల్లినట్టయింది కాని శివదత్తుడు ఎక్కడికి పోయాడు అతణ్ణి, కలుసుకోవటం ఎలా అన్నదే ముఖ్యసమస్యగా తోచింది."
+  },
+  {
+    "loader_index": 186,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002139.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2139,
+    "split": "validation",
+    "text": "పెద్దవాడైన తంటా రాజుగారికి ఒకనాడు ఈ విధంగా ఉత్తరం వ్రాశాడు."
+  },
+  {
+    "loader_index": 187,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00000-of-00004.zip",
+    "member": "validation/002142.npz",
+    "shard": "Telugu/data/train-00000-of-00004.parquet",
+    "row_index": 2142,
+    "split": "validation",
+    "text": "ఇప్పుడే బావికి వెళ్ళి మంచినీరు తెచ్చి వంటచేస్తాను కూచో నాయనా అని చెప్పి అవ్వ బిందె తీసుకొని వెళ్లింది వంట అయినాక భోజనంచేస్తు తంటా విశేషాలేమిటవ్వా అని అడిగాడు."
+  },
+  {
+    "loader_index": 188,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000001.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1,
+    "split": "validation",
+    "text": "తంటా పూటకూళ్ళ ఇంటినుంచి ఒక పెద్ద దుకాణానికి వెళ్లాడు శ్రేష్ఠిగారు తమలపాకులు మోద ఎంతచేసి ఇస్తున్నారు అని అడిగాడు."
+  },
+  {
+    "loader_index": 189,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000008.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 8,
+    "split": "validation",
+    "text": "శ్రేష్ఠిగారు, తమలపాకులు ఒక్కొక్కటీ లెక్కపెట్టసాగాడు వర్తకుడి తమ్ముడు శ్రేష్టిగారు నన్ను త్వరగా పంపరా అవతల బోలెడంత పని ఉంది అన్నాడు."
+  },
+  {
+    "loader_index": 190,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000011.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 11,
+    "split": "validation",
+    "text": "ఇద్దరు ఘర్షణపడ్డారు."
+  },
+  {
+    "loader_index": 191,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000015.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 15,
+    "split": "validation",
+    "text": "ఈ సారి రాజుగారు జాగ్రత్తపడ్డారు మంత్రిని పిలిపించి మహాతంటా అనే వాడు రేపు నగరంవచ్చి దొంగతనంచేస్తాడట వాణ్ణి పట్టుకునే పూచీ నీది అన్నాడు."
+  },
+  {
+    "loader_index": 192,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000024.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 24,
+    "split": "validation",
+    "text": "ఇందులో తల పెట్టి, శీల బిగిస్తే బాధ కలుగుతుంది దొంగలు నిజంచెప్పేస్తారు అన్నాడు మంత్రి."
+  },
+  {
+    "loader_index": 193,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000038.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 38,
+    "split": "validation",
+    "text": "ఆరాత్రి గుర్రంయెక్కి నగరమంతటా పహరా తిరుగుతున్న రాజు చీకటిలో ఈ దీపంచూశాడు ఆయనకు అనుమానం వేసింది భలేతంటా దగ్గిరికి వచ్చాడు."
+  },
+  {
+    "loader_index": 194,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000039.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 39,
+    "split": "validation",
+    "text": "ఇంత రాత్రివేళ ఈ ప్రాంతంలో దుకాణం పెట్టావే ఎవరు వస్తారు అని రాజు అతణ్ణి అడిగాడు."
+  },
+  {
+    "loader_index": 195,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000042.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 42,
+    "split": "validation",
+    "text": "ఇక్కడ దాక్కునేటందుకు చోటేదండి కావలిస్తే ఈ గోతాంలో కూర్చోండి మూతి కట్టేస్తాను దొంగ తెలుసుకోలేరు అన్నాడు భలేతంటా."
+  },
+  {
+    "loader_index": 196,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000047.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 47,
+    "split": "validation",
+    "text": "చెప్పి మోసంచేసిన ఈ దొంగలను పట్టుకోవటానికి రాజు యెన్నో యత్నాలు చేశాడు కాని వారు దొరకలేదు చివరకు ఒకనాడు ముగ్గురు తంటాలూ తమకుతామే రాజుగారి దర్శనానికి వచ్చారు."
+  },
+  {
+    "loader_index": 197,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000075.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 75,
+    "split": "validation",
+    "text": "బంగారు నెమలి."
+  },
+  {
+    "loader_index": 198,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000085.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 85,
+    "split": "validation",
+    "text": "అంటే నన్ను చంపవలసిందేకదా అని ప్రశ్నించాడు బోధిసత్వుడు."
+  },
+  {
+    "loader_index": 199,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000090.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 90,
+    "split": "validation",
+    "text": "కాశీరాజు విస్తుపోయాడు ఏమిటీ ధర్మ పరిపాలనకు ఫలితమా ఇది నీ మాటకు రుజువేమైనా ఉందా అని అడిగాడు."
+  },
+  {
+    "loader_index": 200,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000093.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 93,
+    "split": "validation",
+    "text": "యుక్తిబలం."
+  },
+  {
+    "loader_index": 201,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000102.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 102,
+    "split": "validation",
+    "text": "వరదలు ఎలాపోతాయి నువ్వు పోగొడతావా అన్నాడు రాజు."
+  },
+  {
+    "loader_index": 202,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000106.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 106,
+    "split": "validation",
+    "text": "మా ఖజానాలో, వున్నడబ్బంతా పట్టుకుపో కాని వచ్చేయేడు వరదలు రాకుండాచెయ్యి అన్నాడు రాజు."
+  },
+  {
+    "loader_index": 203,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000114.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 114,
+    "split": "validation",
+    "text": "అదిమొదలు కాశ్మీరు ప్రజలు వరదలు కాటకాలు లేకుండా సుఖంగా జీవించారు."
+  },
+  {
+    "loader_index": 204,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000121.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 121,
+    "split": "validation",
+    "text": "ముగ్గురం వెళ్లి రాజుగారికి ఫిర్యాదు చేద్దాం నేరాన్ని నిరూపించే భారం రాజుగారిదేగదా అన్నాడు పెద్దవాడు."
+  },
+  {
+    "loader_index": 205,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000122.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 122,
+    "split": "validation",
+    "text": "ఈ ఆలోచన చాలా బాగుంది అన్నాడు మూడోవాడు."
+  },
+  {
+    "loader_index": 206,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000131.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 131,
+    "split": "validation",
+    "text": "ఆ రాత్రి పెద్దమ్మ వర్తకుడి కుమారులకు భోజనంపెడుతూ ఒక చిన్న కథ చెప్పింది ఆ కథ యిదీ."
+  },
+  {
+    "loader_index": 207,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000143.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 143,
+    "split": "validation",
+    "text": "పెద్దవాడు కొంచెం ఆలోచించి వివాహమైన రాత్రే తన భార్యను గురువువద్దకు పోనిచ్చిన భర్త ఔదార్యం గొప్పది అన్నాడు."
+  },
+  {
+    "loader_index": 208,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000148.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 148,
+    "split": "validation",
+    "text": "రాజు పెద్దమ్మ చెప్పినదాంట్లో సత్యమున్నదని గ్రహించి ఆమె తెలివితేటలకు ఆశ్చర్యపడ్డాడు."
+  },
+  {
+    "loader_index": 209,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000151.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 151,
+    "split": "validation",
+    "text": "మూడవవాడు అన్నల ముఖాలు చూడలేక తల వంచుకున్నాడేగాని రాజు చెప్పిన న్యాయానికి విరుద్దంగా చెప్పలేదు."
+  },
+  {
+    "loader_index": 210,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000158.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 158,
+    "split": "validation",
+    "text": "ఎద్దు గాడిద తలలు ఊపాయి."
+  },
+  {
+    "loader_index": 211,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000161.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 161,
+    "split": "validation",
+    "text": "ఏమిటిలా వచ్చారు అని అడిగాడు బ్రహ్మ."
+  },
+  {
+    "loader_index": 212,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000163.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 163,
+    "split": "validation",
+    "text": "మా పవిత్రమైన పేర్లను మనుషులు తిట్లుగా వాడుతున్నారు అన్నది ఎద్దు."
+  },
+  {
+    "loader_index": 213,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000164.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 164,
+    "split": "validation",
+    "text": "మనుషులు చేసే ఈ అన్యాయాన్ని మీరు అరికట్టాలి అన్నది దున్నపోతు."
+  },
+  {
+    "loader_index": 214,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000194.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 194,
+    "split": "validation",
+    "text": "అసలే దరిద్రపు జీవితం అందులో జైలుబాధకూడా దేనికి."
+  },
+  {
+    "loader_index": 215,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000201.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 201,
+    "split": "validation",
+    "text": "ఈసారికూడా తమ్ముడు ఇటుకరాతి మూట చూపి న్యాయాధికారిని బెదిరించాడు మళ్ళీ ఇంకో వందరూపాయలు లంచంకింద ముట్టుతవని న్యాయాధికారి ఈవిధంగా తీర్పు చెప్పాడు."
+  },
+  {
+    "loader_index": 216,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000206.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 206,
+    "split": "validation",
+    "text": "విచారణ ముగిసింది ఈ గండాలు మూడూ గడిచి బయటపడినందుకు, సంతోషిస్తూ పేదరైతు బయటికి వస్తుండగా న్యాయాధికారి బంట్రోతు అతడి దగ్గరకు పరిగెత్తుకుంటూ వచ్చి."
+  },
+  {
+    "loader_index": 217,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000219.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 219,
+    "split": "validation",
+    "text": "తరువాత ఆ వచ్చిన డబ్బులో కొంత పెట్టి ఒక జత ఎడ్లను మిగిలిన డబ్బుతో కొంత పొలం కొన్నాడు."
+  },
+  {
+    "loader_index": 218,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000237.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 237,
+    "split": "validation",
+    "text": "ఇన్ని ఉత్తమ గుణాలు శక్తులుగల ఈ హంసల పెద్దకు రాజహంస అని పేరు."
+  },
+  {
+    "loader_index": 219,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000255.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 255,
+    "split": "validation",
+    "text": "తరువాత తన మెడకు ఒక గంట కట్టుకుని స్తంభంపైన కూర్చున్నది."
+  },
+  {
+    "loader_index": 220,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000267.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 267,
+    "split": "validation",
+    "text": "చివరకు అందరూ సురక్షితంగా ఒక చీకటిగుహ చేరారు వ్యాఘ్రదత్తుడి భటుల అరుపులు కేకలు క్రమంగా తగ్గసాగినై వాళ్ళు తమను వెతుకుతూ మరోదారిన పోయారని సమరసేనుడు వూహించాడు."
+  },
+  {
+    "loader_index": 221,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000289.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 289,
+    "split": "validation",
+    "text": "శివదత్తుడు ఏమయ్యాడు అతడికి త్రిశూలం ఎక్కడ వున్నదీ తెలుసా తన దగ్గర వున్న ఆరుగురు సైనికులతో వ్యాఘ్రదత్తుణ్ణి ఎదుర్కొనటం క్షేమమా కాదా."
+  },
+  {
+    "loader_index": 222,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000291.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 291,
+    "split": "validation",
+    "text": "ఇలాంటి ఆపత్సమయంలో తనకు సహాయం చేయగలవాడు ఒక్క చతుర్నేత్రుడుతప్ప ఎవరూలేరు కాని చతుర్నేత్రుడికి యీ పరిస్థితి తెలియటం ఎట్లా."
+  },
+  {
+    "loader_index": 223,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000307.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 307,
+    "split": "validation",
+    "text": "అమ్మ అట్లువేసి ఇచ్చింది ఈ వెధవ నావెంటపడితే ఒక్కొక్కటే వాడి మొహాన కొట్టాను అన్ని అట్లు తిన్నా వాడు నన్ను వదలటంలేదు కావలిస్తే చూడండి అన్నాడు ఇవాన్ తన నీడను చూపిస్తూ."
+  },
+  {
+    "loader_index": 224,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000315.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 315,
+    "split": "validation",
+    "text": "ఓ హొ బరువు జాస్తయింది అందుచేత పాపం గుర్రం లాగలేకుండా ఉంది కొంత బరువు తగ్గించాలి అనుకుని ఇవాను బండిలో సామానుకేసి పరీక్షగా చూశాడు వాడి కన్ను నాలుగుకాళ్ల బల్లామీద పడింది."
+  },
+  {
+    "loader_index": 225,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000320.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 320,
+    "split": "validation",
+    "text": "మరికొంతసేపటికి ఒక వాగు వచ్చింది ఇవాన్ అందులో తన దాహం తీర్చుకుని గుర్రాన్ని కూడా తాగించటానికి ప్రయత్నించాడు ఎంత బలవంతం చేసినా అది నీరు ముట్టింది కాదు."
+  },
+  {
+    "loader_index": 226,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000330.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 330,
+    "split": "validation",
+    "text": "ఇవాన్ నిజంగా వెర్రివడేననీ వాణ్ణి బాగుచెయ్యటం అసంభవమనీ గ్రహించి అన్నలు ఏదోవిధంగా వాణ్ణి పోషించసాగారు."
+  },
+  {
+    "loader_index": 227,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000340.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 340,
+    "split": "validation",
+    "text": "చాకలి వినయంగా నాకింకేమీ కోరికలేదు దొరా అన్నాడు."
+  },
+  {
+    "loader_index": 228,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000349.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 349,
+    "split": "validation",
+    "text": "పెద్ద దొంగలను దివాణం కాపాడుతుంది చిన్న దొంగలను ప్రజలు కాపాడతారు దొంగలు చిక్కకపోవటానికి ఇంతకన్నా కారణం ఏమీలేదు అన్నాడు వృద్ధుడు."
+  },
+  {
+    "loader_index": 229,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000354.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 354,
+    "split": "validation",
+    "text": "భేష్ నీవు నీతినియమాలు పాటించి నట్టయితే పైకి వస్తావు అన్నాడు దొంగ."
+  },
+  {
+    "loader_index": 230,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000356.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 356,
+    "split": "validation",
+    "text": "అయితే ఈరాత్రి రాజుగారి ధనాగారానికి కన్నంవేద్దాం అన్నాడు దొంగ."
+  },
+  {
+    "loader_index": 231,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000362.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 362,
+    "split": "validation",
+    "text": "కాదు మనం పట్టుబడితే ఇద్దరికీ సమానమైన శిక్ష వేస్తారు అందుచేత దొంగిలించిన సొమ్ము సమంగా పంచుకోవటమే న్యాయం అన్నాడు దొంగ."
+  },
+  {
+    "loader_index": 232,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000365.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 365,
+    "split": "validation",
+    "text": "ఎవరికంటా పడకుండా దొంగ రాజును ధనాగారనికి చేర్చాడు ఇద్దరూ లోపలికి వెళ్ళారు ఒక బంగారుభరిణలో మూడు పెద్ద వజ్రాలున్నాయి."
+  },
+  {
+    "loader_index": 233,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000367.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 367,
+    "split": "validation",
+    "text": "రాజు దొంగవద్ద సెలవుపుచ్చుకుని తన భవానికి వచ్చేశాడు."
+  },
+  {
+    "loader_index": 234,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000368.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 368,
+    "split": "validation",
+    "text": "తెల్లవారుజామున పహరావాళ్ళు ధనాగారానికి వేసిన కన్నం గమనించి మంత్రికి కబురుచేశారు మంత్రి వచ్చి రెండు వజ్రాలుమాత్రమే పోయినట్టు గ్రహించి మూడవది జేబులో వేసుకుని రాజుతో మూడు వజ్రాలు పోయినవని చెప్పాడు."
+  },
+  {
+    "loader_index": 235,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000369.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 369,
+    "split": "validation",
+    "text": "పలాన గ్రామంలో, పలానా మనిషిని పట్టితెప్పిస్తే దొంగతనం బయటపడుతుందని రాజు మంత్రితో చెప్పాడు రాజ భటులు వెళ్ళి దొంగను పట్టితెచ్చారు."
+  },
+  {
+    "loader_index": 236,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000372.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 372,
+    "split": "validation",
+    "text": "అయితే మూడవ వజ్రం తీసినవాణ్ణి, పట్టుకోవాలి నాకొక మాసం గడువివ్వండి అన్నాడు మంత్రి."
+  },
+  {
+    "loader_index": 237,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000387.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 387,
+    "split": "validation",
+    "text": "రాజు లేచి భేష్ నీ అబద్దానికి మేం చాలా సంతోషించాం నీకు త్వరలోనే మా కుమార్తెనిచ్చి వివాహంచేసి అర్ధరాజ్యం అప్పజెప్పుతాం అని ప్రకటించాడు."
+  },
+  {
+    "loader_index": 238,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000397.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 397,
+    "split": "validation",
+    "text": "అయ్యా మీ కభ్యంతరం లేకపోతే మిగిలిన శ్లోకపాదాలు నేను పూర్తిచేస్తాను పూర్తి శ్లోకం భోజరాజుకు సమర్పించి ఏమైనా దొరికితే పుచ్చుకోండి అన్నాడు కాళిదాసు."
+  },
+  {
+    "loader_index": 239,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000409.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 409,
+    "split": "validation",
+    "text": "అది మొదలు శశిభూషణుడు మదిరావతి తరుచూ మాట్లాడుకుంటూండేవారు నానాటికీ వారి ప్రేమ పెరగసాగింది."
+  },
+  {
+    "loader_index": 240,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000410.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 410,
+    "split": "validation",
+    "text": "ఇంతలో ఒకనాడు ఒక క్షత్రీయకుమారుడు వచ్చి మదిరావతిని తనకిచ్చి వివాహం చెయ్యవలసిందని ఆమె తండ్రిని కోరాడు తన కుమార్తె మరొకరిని ప్రేమిస్తున్నదని తెలియక తండ్రి అంగీకరించాడు లగ్నం కూడా నిశ్చయమైపోయింది."
+  },
+  {
+    "loader_index": 241,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000412.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 412,
+    "split": "validation",
+    "text": "పెళ్ళిరోజు వచ్చింది మదిరావతికి తలంటి పెళ్లికూతుర్నిచేశారు మంగళవాయిద్యాలతోసహా పెళ్లికొడుకు వచ్చాడు."
+  },
+  {
+    "loader_index": 242,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000420.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 420,
+    "split": "validation",
+    "text": "అంతా విని, సోమదత్తుడు వెర్రివాడా ఇదేనా పురుషా హంకారం నేనూ నీలాగే ఒక కన్యను ప్రేమించాను అమె ఎవరో తెలియకుండానే ఆమెకోసం వెతుకుతున్నాను అంటూ తన కధ చెప్పాడు."
+  },
+  {
+    "loader_index": 243,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000421.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 421,
+    "split": "validation",
+    "text": "వీరీవిధంగా మాట్లాడుకుంటూండగానే దూరాన మంగళవాయిద్యాలు వినపడ్డాయి."
+  },
+  {
+    "loader_index": 244,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000436.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 436,
+    "split": "validation",
+    "text": "పేదవాడు ఈ సమాధానాలకు సంతోషించి మర్నాడు ఉదయమే రాజువద్దకు వెళ్ళి సమాధానాలు నాలుగూ చెప్పాడు ఈ సమాధానాలు, నీ అంతట నీవే తెలుసుకున్నావా లేక ఎవరైనా నీకు చెప్పారా అని రాజు అడిగాడు."
+  },
+  {
+    "loader_index": 245,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000442.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 442,
+    "split": "validation",
+    "text": "పేదవాడు చీపురుపుల్ల ఒకటి తీసుకుని రాజుగారివద్దకు పోయి కూతురు చెప్పిన మాటలే చెప్పాడు."
+  },
+  {
+    "loader_index": 246,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000470.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 470,
+    "split": "validation",
+    "text": "ఈ విధమైన ఒక ప్రకటన స్వర్ణపత్రం మీద లికింపించి సేనాని ఊరూరా దండోరా వేయించాడు సరిగా ఈ దండోరా వేసేసమయానికే నారాయడు కాశీనగరంలో అడుగు పెట్టాడు."
+  },
+  {
+    "loader_index": 247,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000478.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 478,
+    "split": "validation",
+    "text": "రాజు ఉగ్రుడై ఇదా సమాచారము ఇటువంటి కృతఘ్నడు మహాపాపి లోకానికి పీడ ఒక్క బాణంతో వీణ్ణి హతమారుస్తాను అని బాణం తీశాడు."
+  },
+  {
+    "loader_index": 248,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000488.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 488,
+    "split": "validation",
+    "text": "మా నగరంనిండా పాలవంటి పాండిత్యంగలవారున్నారు మీకు చోటెక్కడ అని భోజరాజు అభిప్రాయం బ్రాహ్మడిది గ్రహించి ఆ పాలలో ఇంత చక్కెర కలిపి ఇది తీసుకుపోయి రాజుగారికివ్వు అన్నాడు."
+  },
+  {
+    "loader_index": 249,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000493.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 493,
+    "split": "validation",
+    "text": "ఆ బ్రాహ్మడు తనదగ్గిర ఉన్నదానిలో కొంత భోజరాజు కిచ్చి అలాగే పడుకో నాయనా ఇదెం మా సొత్తా అన్నాడు."
+  },
+  {
+    "loader_index": 250,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000497.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 497,
+    "split": "validation",
+    "text": "అన్నాడు అంటే దాని అర్థం నిస్సారమైన సంసారంలో ఈ మూడూ సారములైనవిగా భావించబడుతున్నవి అని."
+  },
+  {
+    "loader_index": 251,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000501.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 501,
+    "split": "validation",
+    "text": "ఒక జాము పూర్తికాగానే బ్రాహ్మడు తన భార్యను లేపి తాను నిద్రపోయాడు."
+  },
+  {
+    "loader_index": 252,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000505.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 505,
+    "split": "validation",
+    "text": "మూడో జామున బ్రాహ్మడి కొడుకు మేలుకునివున్న సమయంలో భోజరాజు మళ్లీ ఇలా అన్నాడు ఆసారే ఖలు సంసారే సారం శ్వశుర మందిరం నిస్సారమైన సంసారంలో సారమైనది అత్తవారి ఇల్లు."
+  },
+  {
+    "loader_index": 253,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000506.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 506,
+    "split": "validation",
+    "text": "దానికి బ్రాహ్మడికొడుకు సమాధానం చెప్పాడు హరశ్శేతే హిమగిరౌ హరిశ్శేతే పయోనిధౌ శివుడు తన అత్తగారి ఇల్లయిన హిమవత్పర్వతంమీద పడుకున్నాడు విష్ణువు తన అత్తగారి ఇల్లయిన పాలసముద్రంమీద పవళించాడు శివుడి భార్య పార్వతి హిమవంతుడి కూతురు విష్ణువు భార్య లక్ష్మి పాలసముద్రంలో పుట్టింది."
+  },
+  {
+    "loader_index": 254,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000518.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 518,
+    "split": "validation",
+    "text": "అంతా విని, రాజు ఏదో వంకపెట్టి రేపు నీ కుమారుణ్ణి ఆస్థానానికి తీసుకురా సంగతేమిటో విచారిస్తాను, అన్నాడు."
+  },
+  {
+    "loader_index": 255,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000545.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 545,
+    "split": "validation",
+    "text": "ఈ జవాబుకు, సమరసేనుడు బిగ్గరగా నవ్వాడు వ్యాఘ్రదత్తుడు దానికి కారణం అర్ధంకాక ఆశ్చర్యపడుతూ అతడికేసి అనుమానంగా చూశాడు."
+  },
+  {
+    "loader_index": 256,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000548.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 548,
+    "split": "validation",
+    "text": "ఇది చతుర్నేత్రుడి వేగు కంకాళుడు మీరు వెంటనే పారిపోయి దూరంగా వున్న ఏ గుహలో అయిన దాక్కొనటం మంచిది అన్నాడు సమరసేనుడు."
+  },
+  {
+    "loader_index": 257,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000560.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 560,
+    "split": "validation",
+    "text": "మీరు చెబుతున్న ఆ మృత్యులోయ ఎక్కడవున్నదోకూడా నాకు తెలీదు బహుశా ఆ లోయను మేము మరోపేరుతో పిలూస్తూండవచ్చు అన్నాడు వ్యాఘ్రదత్తుడు, భయపడుతూ."
+  },
+  {
+    "loader_index": 258,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000562.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 562,
+    "split": "validation",
+    "text": "ఏకాక్షి అలా ప్రశ్నించేసరికి వ్యాఘ్రదత్తుడికి పరిస్థితి అంతా అవగాహన అయిపోయిండి ఏకాక్షి మాంత్రికుడు సమరసేనుడికి ప్రబల విరోధి అని అతడు గ్రహించాడు ఇప్పుడు తనకు మంచి అవకాశం చిక్కిందని భావించాడు."
+  },
+  {
+    "loader_index": 259,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000576.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 576,
+    "split": "validation",
+    "text": "ఆమె వర్తకుడికి, మరో ఆలోచన కూడా కలిగించింది దాని ప్రేరణవల్ల వర్తకుడు అబ్బాయీ నీ కిప్పుడు పొలన్ లేదుగనక నెలకు ముప్పై రూపాయలకు నా కింద నౌకరీకి ఉండు నే చెప్పినట్టల్లా చెయ్యి అన్నాడు."
+  },
+  {
+    "loader_index": 260,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000580.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 580,
+    "split": "validation",
+    "text": "రాజు అంగీకరించాడు మరొక బండీడు వర్తకుల కమ్మి వర్తకుడు గొల్లపిల్లవాడికి జరీతో నేసిన బట్టలు కట్టబెట్టాడు వాణ్ణి ఏనుగుమీద ఎక్కించి కొన్నిరోజుల అనంతరం మరొక పెద్ద పట్నం చేరాడు."
+  },
+  {
+    "loader_index": 261,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000588.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 588,
+    "split": "validation",
+    "text": "లగ్నం వేళకు పల్లకీ విడిదికి వచ్చేసరికి పెళ్ళి కొడుకును నలుగురు నౌకర్లు పెడ రెక్కలు విరిచికట్టి పల్లకీలో పడేశారు."
+  },
+  {
+    "loader_index": 262,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000592.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 592,
+    "split": "validation",
+    "text": "వాడు పారిపోదామనుకుంటే బయట విచ్చుకత్తులవాళ్ళు బెదిరించారు."
+  },
+  {
+    "loader_index": 263,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000597.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 597,
+    "split": "validation",
+    "text": "వాన పడిందీ లేనిదీకూడా విచారించకుండానే రాజుగారు పురోహితులను కొరడా దెబ్బలు కొట్టించి సరి అయిన ముహుర్తం పెట్టండి అని ఆజ్ఞాపించాడు."
+  },
+  {
+    "loader_index": 264,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000598.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 598,
+    "split": "validation",
+    "text": "వాళ్ళు కుయ్యో మొర్రో అని ఏడుస్తూ క్షమించండి ఈ రాత్రికి మంచిమూహూర్తమేనండి అన్నారు రాజుతో."
+  },
+  {
+    "loader_index": 265,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000606.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 606,
+    "split": "validation",
+    "text": "ఈసారి రాజకుమార్తె రాగానే వాడు మర్యాదగా లేచి కుశల ప్రశ్నవేశాడు తన భర్త వైఖరి మారిపోయినందుకు రాజ కూమార్తె ఎంతో సంతోషించింది."
+  },
+  {
+    "loader_index": 266,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000619.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 619,
+    "split": "validation",
+    "text": "మంత్రి నాకు ఆరోగ్యం సరిగా లేదు వెంటనే వైద్యులను చూడటం మంచిదనుకుంటున్నాను నగరంలో ఉన్న వైద్యులనందరినీ పిలిపించండి అన్నాడు."
+  },
+  {
+    "loader_index": 267,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000628.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 628,
+    "split": "validation",
+    "text": "ఇదంతా పరికిస్తున్న మంత్రికి ఆ రాజు ఏ విధంగా ఆ బంగారం ఎత్తుకుపోయినవాణ్ణి గుర్తించాడో అర్ధంకాలేదు రాజునే అడిగి ఆ రహస్యం తెలుసుకోదలిచాడు."
+  },
+  {
+    "loader_index": 268,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000641.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 641,
+    "split": "validation",
+    "text": "మాధవుడు పంపిన ధోవతుల కానుక చూడగానే శంకరస్వామికి పరమానందమయ్యింది ఎవడో అమయాకుడు రానేవచ్చాడనుకుంటూ అతన్ని లోపలికి పిలిపించాడు మాధవుడు శంకరస్వామికి నమస్కరించి."
+  },
+  {
+    "loader_index": 269,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000643.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 643,
+    "split": "validation",
+    "text": "ఈ దెశంకానిదేశంలో మీకు వేరే ఇంట అన్ని సదుపాయాలూ అమరవు అందుచేత మా ఇంటనే బస చేయ్యండి అని చెప్పి శంకరస్వామి మాధవుణ్ణి ఒప్పించాడు."
+  },
+  {
+    "loader_index": 270,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000649.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 649,
+    "split": "validation",
+    "text": "శివుడు నవ్వి భిక్షాటనం చేసుకునే బ్రహ్మచారిని నాకు రత్నదాన మెందుకయ్యా పద పద ఎవరన్నా గృహస్థును చూసి ఇవ్వండి అన్నాడు."
+  },
+  {
+    "loader_index": 271,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000651.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 651,
+    "split": "validation",
+    "text": "ఇక్కడ నేనెవరి నెరుగుదును దయ చేసి మీదారిన మీరుపోండి నా కెవరు పిల్లనిస్తారు అన్నాడు శివుడు."
+  },
+  {
+    "loader_index": 272,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000676.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 676,
+    "split": "validation",
+    "text": "బల్లకట్టువాడు ముసలామెను ఊరికే ఎక్కించుకోకపోవటం చూస్తున్న ప్రవరుడు తనదగ్గిర కూడా చిల్లిగవ్వ లేని కారణంచేత కాంచనవల్లివైపు ప్రశ్నార్ధకంగా చూశాడు."
+  },
+  {
+    "loader_index": 273,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000686.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 686,
+    "split": "validation",
+    "text": "ప్రవరుడు ఒక ఇనప పలక తెప్పించి రత్నాన్ని దానికేసి కొట్టాడు అది కేవలం గాజుముక్క కావడంవల్ల ఆ దెబ్బకు పప్పు పప్పయిపోయింది అది చూచి అందరూ నిర్ఘాంతపోయారు."
+  },
+  {
+    "loader_index": 274,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000694.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 694,
+    "split": "validation",
+    "text": "ప్రవరుడీమాట విని, సంతోషించి భోజనానికి కూచుంటూ అది కాదవ్వా ఇవాళ రాజుగారు నన్ను భోజనానికి పిలిచి రాణిగారిచేత నాకు వడ్డన చేయించారు వారి అతిధ్య రుణం మనంకూడా తీర్చుకోకపోతే బాగుంటుందా అన్నాడు."
+  },
+  {
+    "loader_index": 275,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000702.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 702,
+    "split": "validation",
+    "text": "ప్రవరుడు లేచివచ్చి భోజనానికికూచుంటూ రాజుకోరిక, అవ్వకి చెప్పాడు."
+  },
+  {
+    "loader_index": 276,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000710.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 710,
+    "split": "validation",
+    "text": "ఇదేమిటవ్వా ఇవాళ ఇట్లా వడ్డిస్తున్నావు ఇదంతా తినటానికా పారెయ్యటానికా అన్నాడు ప్రవరుడు."
+  },
+  {
+    "loader_index": 277,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000723.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 723,
+    "split": "validation",
+    "text": "అమ్మా మేము పరదేశులం అన్నారు వాళ్ళు."
+  },
+  {
+    "loader_index": 278,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000739.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 739,
+    "split": "validation",
+    "text": "అమ్మా నీవల్ల తప్పేమీ లేదని, నాకు తెలిసింది కాని ఈ బ్రాహ్మలు నీ దృష్టిలో ఎవరో చెప్పు వారు పరదేశులమంటే కాదని ఎందుకన్నావు అని రాజు అడిగాడు."
+  },
+  {
+    "loader_index": 279,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000746.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 746,
+    "split": "validation",
+    "text": "అనుమాన పిశాచిని, చేరనిచ్చిన నాకు తమరు సరిఅయిన శిక్ష విధించాలి అన్నాడు పురాణాల బ్రాహ్మడు."
+  },
+  {
+    "loader_index": 280,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000760.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 760,
+    "split": "validation",
+    "text": "ముగ్గ్గురు పెళ్ళికొడుకులు."
+  },
+  {
+    "loader_index": 281,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000799.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 799,
+    "split": "validation",
+    "text": "మహమ్మదలీకీ ఆమెను చూస్తూనే ఆమెమీద అంతులేని ప్రేమ పుట్టుకొచ్చింది."
+  },
+  {
+    "loader_index": 282,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000800.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 800,
+    "split": "validation",
+    "text": "అతను తనవద్ద ఉన్న నూరు రకాల నగిషీలు గల పట్టెడలు తెచ్చి ఆమెముందు పెట్టాడు ఆమె వాటిని చూసి ఇంత కన్నా మంచివి లేవా అని అడిగింది."
+  },
+  {
+    "loader_index": 283,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000819.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 819,
+    "split": "validation",
+    "text": "త్వరలోనే జాఫర్ ఖలీఫాకూ తనకూ మస్రూర్ కూ వర్తకుల దుస్తులు కూర్చాడు వారు వాటిని ధరించి నిర్మానుష్యమైన వీధులవెంబడి నడుస్తూ నది ఒడ్డుకు వెళ్లారు."
+  },
+  {
+    "loader_index": 284,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000823.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 823,
+    "split": "validation",
+    "text": "ఆ పడవ దగ్గిరికి వచ్చేసరికి దాని మధ్య గొప్ప దుస్తులు ధరించి ఒక యువకుడూ వాడి పక్కల జాఫర్, మస్రూర్ లను పోలిన వ్యక్తులూ ఉండటం కనిపించింది."
+  },
+  {
+    "loader_index": 285,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000837.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 837,
+    "split": "validation",
+    "text": "మహమ్మదలీ ఖలీఫా అభయం పొంది తన కధ యావత్తూ వెల్లడించాడు."
+  },
+  {
+    "loader_index": 286,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000847.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 847,
+    "split": "validation",
+    "text": "ఆఖరుపిల్లను, దాని అత్తగారు ఒక్క పని చెయ్యనిచ్చేదికాదు పైపెచ్చు అది ఎక్కడ కందిపోతుందో అని దానికి అడ్డమైన ఉపచారాలు తానే చేసేది."
+  },
+  {
+    "loader_index": 287,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000850.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 850,
+    "split": "validation",
+    "text": "చిన్నక్క, చెల్లెల్ని ఓదారుస్తూ ఊరు కోవే అమ్మా నిన్ను అత్తముండ కష్టాలు పెడుతోంది అది ఇవాళ ఉంటుంది రేపు పోతుంది నా కష్టాలకు దరిదాపూలేదే నేనెవరితో చెప్పుకోను అన్నది."
+  },
+  {
+    "loader_index": 288,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000854.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 854,
+    "split": "validation",
+    "text": "తన చెల్లెళ్ళను చూడగానే పెద్దక్కకు ఎక్కడలేని ఆనందమూ కలిగింది వాళ్ల బాధలన్నీ విని పెద్దది తన కళ్ళు తుడుచుకుంటూ ఇంకా నీ మొగుడే నయం నామొగుడిసంగతి వింటే మీరు నిర్ఘాంత పోతారు అనుకున్నది."
+  },
+  {
+    "loader_index": 289,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000864.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 864,
+    "split": "validation",
+    "text": "పూర్వం పాటలీపుత్రాన్ని చంద్రగుప్తుడు అనే రాజు పరిపాలిస్తూ ఉండేవాడు ఆయన విశాలమైన ఆ రాజ్యాన్ని రాష్ట్రాలుగా భాగించి ఒక్కొక్క రాష్ట్రానికి ఒక్కొక్క అధికారిని నియమించాడు."
+  },
+  {
+    "loader_index": 290,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000875.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 875,
+    "split": "validation",
+    "text": "సెభాష్ ధర్మన్న నిజంగా ధర్మావతారమే నని రాజు మెచ్చుకొన్నాడు."
+  },
+  {
+    "loader_index": 291,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000888.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 888,
+    "split": "validation",
+    "text": "శివమెత్తినవానిలాగా చిందులు తొక్కుతూవున్న హుసేను అరే మాకి పచ్చెచ్చం అక్కల్లేదు ఓయ్ పంతులూ నీకి షలాం షేస్తాం మీ దేముడ్కి పొమ్మని సెప్పూవోయ్ పంతుల్ అంటు కాళ్ళ వేళ్ళా పడి బతిమిలాడాడు."
+  },
+  {
+    "loader_index": 292,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000891.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 891,
+    "split": "validation",
+    "text": "సివంగి, కుంటుతూ నడుస్తుంది ఎందుకో తెలుసా."
+  },
+  {
+    "loader_index": 293,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000899.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 899,
+    "split": "validation",
+    "text": "ఎవరి ఫోటో వెయ్యాలి."
+  },
+  {
+    "loader_index": 294,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000935.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 935,
+    "split": "validation",
+    "text": "అప్పుడు కొలనులోకి హంసలలో ఒకటి ఉదయనుడి పాదాలముందుగా పోయింది ఉదయన్నుడు చటుక్కున దాన్ని పట్టుకొని బైటికి తీశాడు బైటికిరాగానే ఆ హంస ఒక అందాల కన్యగా మారిపోయింది."
+  },
+  {
+    "loader_index": 295,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000973.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 973,
+    "split": "validation",
+    "text": "మనసుకి నచ్చిన మాట."
+  },
+  {
+    "loader_index": 296,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/000992.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 992,
+    "split": "validation",
+    "text": "రంగన్నా నీవు చెప్పినవన్నీ బాగానే వున్నై మరి రాములవారి మాట ఏమిటి అని తొందరపాటుతో ప్రశించాడు శేషయ్య."
+  },
+  {
+    "loader_index": 297,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001012.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1012,
+    "split": "validation",
+    "text": "ఇందుకు ఆ దాసీది మళ్లీ ఒక శ్లోకరూపంలో ఇలా జవాబు చెప్పింది ఉత్తుంగభుజ నాశో వా దేశ కాల విపర్యయః మణిగ్వర వినాశో వా నందోరాజ భవిష్యతి."
+  },
+  {
+    "loader_index": 298,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001034.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1034,
+    "split": "validation",
+    "text": "అప్పుడే భక్తులంతా నిద్ర మేలుకొని బద్దకంగా ఆవలిస్తున్నారు గోరా ఒక్కొక్కడి నెత్తిమీదనే కర్రచెక్కతో ఒక్కొక్క దెబ్బకొట్టి, చక్కా వెళ్లేడు."
+  },
+  {
+    "loader_index": 299,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001052.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1052,
+    "split": "validation",
+    "text": "ఈ ప్రశ్నకు ఆ కన్యలు పొందిన ఆశ్చర్యం ఏమని చెప్పటం నిజమే మా సంగతి నీకెలా తెలిసింది అని విస్తుపోతూ అడిగారు."
+  },
+  {
+    "loader_index": 300,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001062.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1062,
+    "split": "validation",
+    "text": "ఎక్కడికి కేమున్నది వేటకి వెళ్లివుంటాడు వేట అంటే జంతువుల వేటకాదు కవలల వేట అని బదులు చెప్పింది సుహాసిని."
+  },
+  {
+    "loader_index": 301,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001063.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1063,
+    "split": "validation",
+    "text": "కవలల వేట ఏమిటి అని మళ్లీ ప్రశ్నించాడు ఉదయనుడు."
+  },
+  {
+    "loader_index": 302,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001067.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1067,
+    "split": "validation",
+    "text": "అవును వాడికి కావలసిన మనుష్యులమూ మిమ్మల్ని రక్షించవలసిన వాళ్లమూ మేమే అయామే అని విచారిస్తున్నాను అన్నాడు ఉదయనుడు."
+  },
+  {
+    "loader_index": 303,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001068.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1068,
+    "split": "validation",
+    "text": "అలాగైతే మీరు మరీ జాగ్రత్తగా మసులుకోవలసి ఉంటుంది అని హెచ్చరించింది సుహాసిని."
+  },
+  {
+    "loader_index": 304,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001075.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1075,
+    "split": "validation",
+    "text": "అనంతపురం జిల్లాలో బుక్కరాయసముద్ర మనే ఒక గ్రామమున్నది ఆ ఊరిలో గొప్ప చెరువు ఒకటున్నది."
+  },
+  {
+    "loader_index": 305,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001092.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1092,
+    "split": "validation",
+    "text": "అందువల్ల అక్కమ్మగారు నిజంగా గర్వపడింది గొప్పవాళ్లకుచేసే మర్యాదలన్నీ లోపంలేకుండా వనజాక్షమ్మకు అక్కమ్మగారు చేసింది."
+  },
+  {
+    "loader_index": 306,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001094.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1094,
+    "split": "validation",
+    "text": "ఉన్నట్టే వుండి, జేవురించిన ముఖంతో ఆవిడ కంఠమెత్తి ఏమైందర్రా వెండి పళ్లెం పోయినట్టే అని హూంకరించింది."
+  },
+  {
+    "loader_index": 307,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001096.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1096,
+    "split": "validation",
+    "text": "నగిషీలకేమిటి అక్కా వాడు పెట్టిన మెరుగు అసలీ ఇండియా మొత్తంమీద మరెవ్వడైనా పెట్టగలడా అని అడుగుతా అని సవాలుచేస్తూ మాట్లాడింది మూడో ఆమె."
+  },
+  {
+    "loader_index": 308,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001122.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1122,
+    "split": "validation",
+    "text": "అప్పుడు ఆ దారిని పోతూవున్న ఒక మనిషి నీ వెవరయ్యా అని అడిగాడు."
+  },
+  {
+    "loader_index": 309,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001123.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1123,
+    "split": "validation",
+    "text": "అందుకు గంగు నేనా వేములవాడ భీమకవి చేసిన జోగిని అని జవాబు చెప్పాడు."
+  },
+  {
+    "loader_index": 310,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001146.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1146,
+    "split": "validation",
+    "text": "నాలాంటివాళ్లు తిండి లేక బాధపడుతూంటే ఈ చీటీ పారవేసుకున్నవాడెవడో తిండి ఎక్కువై అజీర్తితో బాధపడుతున్నట్టుందే లోకం పోకడ ఇలాగే నడుస్తున్నది కాబోలు అనుకుంటూ వెంకటాయ ముందుకి నడిచాడు."
+  },
+  {
+    "loader_index": 311,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001151.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1151,
+    "split": "validation",
+    "text": "వెంటనే వేంకటాయ ఆ కాగితాన్ని అమె చేతికిచ్చి అమ్మా చదువురాని వాణ్ణి మీరే చూడండి అన్నాడు."
+  },
+  {
+    "loader_index": 312,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001155.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1155,
+    "split": "validation",
+    "text": "సరేగాని మందు పుచ్చుకోడం మరిచి పోయావురా వెంకటాయ్ అందావిడ."
+  },
+  {
+    "loader_index": 313,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001178.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1178,
+    "split": "validation",
+    "text": "అందుకు మనిషి అది మా బావుల్లో నీరు శుభ్రపరుస్తుంది అంతకంటే ముఖ్యమైన విషయం దాని మాంసం చాలా రుచిగా వుంటుందికూడాను అన్నాడు."
+  },
+  {
+    "loader_index": 314,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001193.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1193,
+    "split": "validation",
+    "text": "ఏమీ తోచక అక్కడే పరున్నాడు మళ్లి వెంటనే దేవాలయం ప్రత్యక్షమైంది లేస్తే ఎక్కడ మాయమైపోతుందో అన్నభయం కొద్దీ ఆతడలాగే పరుండి ఆ దృశ్యాన్ని చూస్తూ ఉండిపోయాడు అతనితోపాటు ఆ దృశ్యంకూడా అలాగే ఉండిపోయింది."
+  },
+  {
+    "loader_index": 315,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001230.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1230,
+    "split": "validation",
+    "text": "ఆ వచ్చిన గుఱ్ఱాలు కవలసోదరులకు స్వయంగా తాను యిచ్చిపంపినవే అయినా వాటిపైన వచ్చినది కవలసోదరులు కాదు వాళ్లు తన సేవకులు."
+  },
+  {
+    "loader_index": 316,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001233.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1233,
+    "split": "validation",
+    "text": "అంతావిని అంతటి అదృష్టమా అంటూ రాజు తిరిగి దుఃఖంతో పడి పోయాడు."
+  },
+  {
+    "loader_index": 317,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001271.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1271,
+    "split": "validation",
+    "text": "వైకుంఠరావు తను ఎక్కడినుంచి వచ్చినదీ తనకు సహాయపడిన ఆ అపరిచిత స్నేహితుని సంగతీ అంతా వివరంగా తెలియజేస్తూ ఇంతకూ తమ పేరు అడగటం మరిచానే అన్నాడు."
+  },
+  {
+    "loader_index": 318,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001305.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1305,
+    "split": "validation",
+    "text": "అప్పుడు బుద్దభగవానుడు తన నిజరూపంలో ప్రత్యక్షమై నవరా విచారించకు ఈ దీక్షతోనే కడవరకూ ఉండు అన్నాడు."
+  },
+  {
+    "loader_index": 319,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001310.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1310,
+    "split": "validation",
+    "text": "ఇందుకు జిరాఫీ మనం ఇలా ఉండాలని దేవుడే ఉద్దేశించినప్పుడు ఇక చేయగలదేముంది అనుభవించటం తప్ప అని వేదాంతపరంగా మాటాడింది."
+  },
+  {
+    "loader_index": 320,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001321.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1321,
+    "split": "validation",
+    "text": "ఈ మాట వినగానే పురుషొత్తముడికి జిజ్ఞాస మరింత ఎక్కువై ఏమైనా సరే చెబితేగాని, వదిలేది లేదని, పట్టు పట్టాడు అప్పుడు వృద్దుడు ఇలా చెప్పసాగాడు."
+  },
+  {
+    "loader_index": 321,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001325.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1325,
+    "split": "validation",
+    "text": "వెంటనే ఊరివారికి నా స్వప్న కధ చెప్పాను గుడిలోకి పోయి చూతుము గదా కేశవుని విగ్రహం కానరాకపోయె నారద మహర్షి వచ్చి నాకు కలలో చెప్పిన అంశం ఇలా ప్రత్యక్షంగా రుజువైనందుకు అందరూ ఆశ్చర్యపోయారు."
+  },
+  {
+    "loader_index": 322,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001329.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1329,
+    "split": "validation",
+    "text": "ఈ మాట విన్నదే, పురుషోత్తముడు మరీ తొందరపడ్డాడు అప్పుడు వృద్ధుడు ఒక గొడ్డలి తెచ్చి యిచ్చి అతన్ని ఆశీర్వదించి పంపాడు."
+  },
+  {
+    "loader_index": 323,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001389.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1389,
+    "split": "validation",
+    "text": "అప్పుడు చిలక కరువుకాటకాలు వచ్చినప్పుడు ఇబ్బందిపడకుండా ఉండాలనే కదా ఈ ఎకరం భూమికూడా పంటకు ఉపయోగించ దలిచావు అన్నది."
+  },
+  {
+    "loader_index": 324,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001398.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1398,
+    "split": "validation",
+    "text": "ఈ చెడుతలంపు, కలిగినప్పటినుంచీ యిల్లు కదిలి బయటికి వెళ్లని హిట్సూ యిప్పుడు ప్రొద్దున వెళ్లి తిరిగి రాత్రికిగాని యింటికి రావటంలేదు."
+  },
+  {
+    "loader_index": 325,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001412.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1412,
+    "split": "validation",
+    "text": "వెంటనే ధనరాజుకి ఆలోచన తట్టింది ఒక కాగితం తెచ్చి బాగా ఆలోచించి దానిమీద కోరికలన్నీ గుదిగుచ్చి ఒక్క వాక్యంలో ఇలా రాశాడు."
+  },
+  {
+    "loader_index": 326,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001417.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1417,
+    "split": "validation",
+    "text": "అందుకని శాస్త్రి భార్యతో సంప్రదించకుండానే మనసులో వరం ఏదో కోరుకుని ఒక టెంకయ కొట్టబోయాడు."
+  },
+  {
+    "loader_index": 327,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001460.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1460,
+    "split": "validation",
+    "text": "మరుక్షణమే రాక్షసుడు కొలను చేరుకున్నాడు తను తెచ్చిన ఆ రాకుమార్తెను కూడా కొలనులోకి విసిరి వేశాడు ఆమె కూడా హంసగా మారిపోయింది."
+  },
+  {
+    "loader_index": 328,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001465.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1465,
+    "split": "validation",
+    "text": "రాక్షసుడికి అందకుండా ఆ కోతులు ఒక చెట్టుమీది నుంచి మరొక చెట్టు మీదికి దూకుతూ ముప్పుతిప్పలు పెట్టసాగినై."
+  },
+  {
+    "loader_index": 329,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001488.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1488,
+    "split": "validation",
+    "text": "అయ్యో చూస్తో ఊరుకున్నారా అన్నది సరమ్మ."
+  },
+  {
+    "loader_index": 330,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001497.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1497,
+    "split": "validation",
+    "text": "సిద్దపడ్డాడేకాని మునసబు, బస్తా ఎత్తలేక పోయాడు."
+  },
+  {
+    "loader_index": 331,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001500.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1500,
+    "split": "validation",
+    "text": "ముఖస్తుతి."
+  },
+  {
+    "loader_index": 332,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001555.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1555,
+    "split": "validation",
+    "text": "తరువాత ఎవరిత్రోవన వారు ఎంతో ఉత్సాహంతో తమతమ యిళ్లకు వెళ్లి పోయారు ఆ కుర్రవాడిని, వెంటబెట్టుకుని రాణా యింటికి బయలుదేరాడు."
+  },
+  {
+    "loader_index": 333,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001566.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1566,
+    "split": "validation",
+    "text": "ఒకరోజున, ఆ తోటలోకి యెక్కడ్నించో ఓ క్రొత్త బుల్ బుల్ పడుచు వచ్చి తోట అందం చూచి హాయిగా చిగురాకులు కోరుకుతూ పళ్లు తింటూ పాటలు పాడుకొంటూ అక్కడ వుండిపోవాలనుకుంది."
+  },
+  {
+    "loader_index": 334,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001575.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1575,
+    "split": "validation",
+    "text": "అమాయకుడు."
+  },
+  {
+    "loader_index": 335,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001584.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1584,
+    "split": "validation",
+    "text": "ఒక రోజున వాడు యధాప్రకారం ఆవుని మేపటానికి తీసుకు వెళ్లాడు ఒక చెట్టునీడని కూర్చుని ఆవుని మేతకు వదిలాడు."
+  },
+  {
+    "loader_index": 336,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001589.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1589,
+    "split": "validation",
+    "text": "అదేమిటిరా అలా అంటావు మన ఆవుని మరెవళ్లు పోషిస్తారు ఎవరో తీసుకెళ్లి మన ఆవును పోషిస్తేమటుకు మనకేం లాభం ఎవళ్లన్నా తీసుకుపోయి మేపితే వాళ్లే దాని పాలు పితుక్కుంటారుకదా మరి మనమాట అని అడిగింది తల్లి."
+  },
+  {
+    "loader_index": 337,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001591.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1591,
+    "split": "validation",
+    "text": "అందుకు వాళ్లు మాదేమున్నదోయ్ మునసబుగారిని అడుగు అన్నారు."
+  },
+  {
+    "loader_index": 338,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001593.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1593,
+    "split": "validation",
+    "text": "అబ్బాయ్ అది చాలా కష్టమైన పని నీవు చూడబోతే బొడ్డూడని కుంకవి నిన్ను గురించి గవర్నమెంటువారికి రాయాలి జీతభత్యాలూ యిచ్చేది వారేకదా అన్నాడు మునసబు."
+  },
+  {
+    "loader_index": 339,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001596.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1596,
+    "split": "validation",
+    "text": "రంగన్నని చూస్తూనే మునసబు ఎంత మోసం చేశావురా నువ్వు ఆవుని వూళ్లోవాళ్ల చేలోకి వదిలి ఏమీ ఎరగనట్టు వూరుకోవటమే కాకుండా నాకు టోపీ వేసి బందిలి దొడ్డి కాపలాకు నవుకరుగా కుదిరావా అంటూ, నిప్పులు కక్కాడు."
+  },
+  {
+    "loader_index": 340,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001597.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1597,
+    "split": "validation",
+    "text": "రంగన్న తల్లి మునసబుగారి కాళ్లావెళ్లా పడి ఈ ఒక్కసారికీ క్షమించండి బాబూ అని వేడుకున్నది."
+  },
+  {
+    "loader_index": 341,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001660.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1660,
+    "split": "validation",
+    "text": "అందుకు పరమేశ్వరుడు దేవి ఆ బ్రాహ్మణుడు తను చేసుకొన్న కర్మను అనుభవిస్తున్నాడు త్వరలోనే అతడి కష్టాలు గట్టెక్కి అదృష్టదినాలు, బయల్పడుతవిలే అని బదులు చెప్పాడు."
+  },
+  {
+    "loader_index": 342,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001719.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1719,
+    "split": "validation",
+    "text": "మరునాడు జమీందారు తంగవేలు బసకు వెళ్లాడు కాని అప్పటికప్పుడే అతని కుటీరం ఖాళి ఐపోయి వున్నది."
+  },
+  {
+    "loader_index": 343,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001732.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1732,
+    "split": "validation",
+    "text": "ఇదిచూచి మారుతి అర్జునా ఇకనెప్పుడు ఇటువంటి పందాలు వేయక నీ దారిని నీవువెళ్లు అగ్నిప్రవేశం చేయటానికి ఇక్కడ నిప్పురవ్వ దొరకదు అన్నాడు సానుభూతి చూపుతూ."
+  },
+  {
+    "loader_index": 344,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001770.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1770,
+    "split": "validation",
+    "text": "ఒకప్పుడు దేవతలందరూ సభచేసి, భూలోకమందు, మానవులు ఎలా మసులుకొంటున్నారో వారి మంచి చెడ్డలు తెలుసుకుని తగినట్టుగా సత్కరించాలని, తీర్మానించారు ఈ కార్యం నిర్వహించుకు రావటం వరుణదేవుని వంతు వచ్చింది."
+  },
+  {
+    "loader_index": 345,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001771.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1771,
+    "split": "validation",
+    "text": "వరుణదేవుడు, మంచిరోజు చూచి విమానంవంటి ఒక మేఘాన్ని వాహనంగా చేసుకుని ఒక ముసిలి బిచ్చగాని రూపుతో భూలోకానికి బయల్దేరాడు."
+  },
+  {
+    "loader_index": 346,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001850.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1850,
+    "split": "validation",
+    "text": "ఆంజనేయులవారి వంశంలో పుట్టి నేను దొంగతనం చేస్తానా అంది కోతి ఆ ఆంజనేయులవారి స్నేహితుడైన జాంబవంతుడు మా కులపెద్ద అయివుండగా నేను దొంగలిస్తానా అని చెప్పి తప్పుకుంది ఎలుగుబంటి."
+  },
+  {
+    "loader_index": 347,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001855.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1855,
+    "split": "validation",
+    "text": "సెబాష్ బాగుందీపద్దతి అనుకున్నాయి జంతువులు గుఱ్ఱం గాడిద సింహం ఏనుగు కోతి కొండముచ్చూ ఈ మొదలైన జంతువులన్నీ ఒక్కొక్కటే వచ్చి నక్కతోక లాగి వెళ్లేయి."
+  },
+  {
+    "loader_index": 348,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001864.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1864,
+    "split": "validation",
+    "text": "సింహం అడ్డువచ్చి, తప్పుకో శిక్ష విధించవలసింది నేను అని కోతిని అఙ్ఞాపించింది నక్కకేసి తిరిగి మంత్రి పుంగవా ఈ మూషికాధముడు చోరుడు అని నీకు ఎలా తెలిసింది అని అడిగింది."
+  },
+  {
+    "loader_index": 349,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001878.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1878,
+    "split": "validation",
+    "text": "దానికి ఒక ఉపాయం ఉందిలే మనం పోగుచేసిన పెంకులన్నీ మళ్లీ తెచ్చి యిక్కడ పోద్దాం అన్నాడు గెడ్డపువాడు."
+  },
+  {
+    "loader_index": 350,
+    "archive": "/kaggle/working/telugu_project/features/mms_char_crepe_gpu_v1/telugu_train-00001-of-00004.zip",
+    "member": "validation/001880.npz",
+    "shard": "Telugu/data/train-00001-of-00004.parquet",
+    "row_index": 1880,
+    "split": "validation",
+    "text": "అనుకున్నట్టే మర్నాడు రాక్షసుడు వచ్చాడు తలుపు తెరుస్తూనే మూడవ బాన ముక్కలై వుండటం చూచి ఇది ఎవరి పనిరా అని పెడబొబ్బులు పెట్టుకుంటూ గెడ్డపువాడు దగ్గిరికి వచ్చాడు."
+  }
+]

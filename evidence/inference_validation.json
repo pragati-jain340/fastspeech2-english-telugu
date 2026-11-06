@@ -1,0 +1,142 @@
+[
+  {
+    "language": "English",
+    "variant": "character_baseline",
+    "id": "E1",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": null
+  },
+  {
+    "language": "English",
+    "variant": "character_baseline",
+    "id": "E2a",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": null
+  },
+  {
+    "language": "English",
+    "variant": "character_baseline",
+    "id": "E2b",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": null
+  },
+  {
+    "language": "English",
+    "variant": "character_baseline",
+    "id": "E3",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": null
+  },
+  {
+    "language": "English",
+    "variant": "character_baseline",
+    "id": "E4",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": null
+  },
+  {
+    "language": "English",
+    "variant": "frame_prosody",
+    "id": "E1",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": 2.1457672119140625e-05
+  },
+  {
+    "language": "English",
+    "variant": "frame_prosody",
+    "id": "E2a",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": 8.106231689453125e-06
+  },
+  {
+    "language": "English",
+    "variant": "frame_prosody",
+    "id": "E2b",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": 7.62939453125e-06
+  },
+  {
+    "language": "English",
+    "variant": "frame_prosody",
+    "id": "E3",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": 6.4373016357421875e-06
+  },
+  {
+    "language": "English",
+    "variant": "frame_prosody",
+    "id": "E4",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": 1.7404556274414062e-05
+  },
+  {
+    "language": "Telugu",
+    "variant": "character_baseline",
+    "id": "T1",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": null
+  },
+  {
+    "language": "Telugu",
+    "variant": "character_baseline",
+    "id": "T2a",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": null
+  },
+  {
+    "language": "Telugu",
+    "variant": "character_baseline",
+    "id": "T2b",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": null
+  },
+  {
+    "language": "Telugu",
+    "variant": "character_baseline",
+    "id": "T3",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": null
+  },
+  {
+    "language": "Telugu",
+    "variant": "character_baseline",
+    "id": "T4",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": null
+  },
+  {
+    "language": "Telugu",
+    "variant": "frame_prosody",
+    "id": "T1",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": 1.6689300537109375e-05
+  },
+  {
+    "language": "Telugu",
+    "variant": "frame_prosody",
+    "id": "T2a",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": 8.58306884765625e-06
+  },
+  {
+    "language": "Telugu",
+    "variant": "frame_prosody",
+    "id": "T2b",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": 1.4066696166992188e-05
+  },
+  {
+    "language": "Telugu",
+    "variant": "frame_prosody",
+    "id": "T3",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": 8.106231689453125e-06
+  },
+  {
+    "language": "Telugu",
+    "variant": "frame_prosody",
+    "id": "T4",
+    "original_refactor_bitwise_equal": true,
+    "saved_gpu_mel_max_absolute_error": 4.315376281738281e-05
+  }
+]

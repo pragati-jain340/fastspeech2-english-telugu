@@ -1,0 +1,16 @@
+{
+  "character_baseline": {
+    "best_epoch": 36,
+    "best_update": 28944,
+    "best_val_mel_mae": 0.937435,
+    "last_epoch": 50,
+    "last_update": 40200
+  },
+  "frame_prosody": {
+    "best_epoch": 48,
+    "best_update": 38592,
+    "best_val_mel_mae": 0.794563,
+    "last_epoch": 50,
+    "last_update": 40200
+  }
+}

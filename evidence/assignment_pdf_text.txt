@@ -1,0 +1,118 @@
+ 
+ 
+Assignment  
+Implementation of FastSpeech 2-Based Text-to-Speech Synthesis 
+Deadline: 07-11-2026 
+1. Objective 
+The objective of this assignment is to implement and evaluate the FastSpeech 2 Text-to-Speech (TTS) model 
+separately for English and Telugu, referring to the original research paper and an available GitHub 
+implementation. Applicants are expected to understand the model architecture, adapt and execute the existing 
+codebase independently for each language, train two separate models using the specified datasets, generate 
+speech samples, and analyse the duration, pitch and energy predictions of the variance adaptor for the given test 
+smaples.  
+References: FastSpeech 2 Paper  |  FastSpeech 2 GitHub implementation  
+Note: Use the GitHub implementation as a starting point and document the changes made for each language, 
+particularly for Telugu support. 
+2. Datasets 
+The following datasets are to be used for training and validation: 
+Language Dataset 
+English Svarah 
+Telugu IndicTTS Telugu 
+• Use approximately 5 hours of audio for training and 1 hour of audio for validation for each language. 
+• Train the English and Telugu models separately using their respective datasets. 
+• Specify the data selection and subsampling strategy used for each dataset. 
+• Ensure that the training and validation data are separate, with no overlap. 
+• Document the dataset preparation and preprocessing steps performed for both languages. 
+3. Test Samples 
+Generate speech for all the following test sentences using the corresponding language model. Preserve the 
+sentence text as provided. 
+English Test Sentences 
+ID Test sentence 
+E1 The antidisestablishmentarianism movement gained considerable momentum during the parliamentary 
+proceedings. 
+E2 a) The orchestra's conduct during the ceremony was praised by the audience.  
+b) The researchers will conduct an experiment to evaluate the proposed method. 
+E3 The rhyth  m of the orchestra changed unexpectedly. 
+E4 The meeting will start at 10:45 AM on 12 November 2026, so andaroo should arrive on time. 
+ 
+ 
+Telugu Test Sentences 
+ID Test sentence 
+T1 న్యూ రోఫార్మ కోలాజికల్  పరిశోధనలో నూతన ఔషధాల ప్రభావాన్ని  విశ్లేషించారు. 
+T2 a) తాడుపై అతని పట్టు చాలా బలంగా ఉంది. 
+b) ఆమె పట్టు చీరను ధరించి వేడుకకు వచ్చ ింది . 
+T3 పులి అడ  విలో నిశ్శ బ్దంగా నడిచింది. 
+T4 ఈ సమావేశం 2026 నవంబర్ 12వ తేదీ ఉదయం 10:45 గంటలకు ప్రారంభమవుతుంది, సమయానికి 
+సిద్ధంగా ఉంచండి. 
+4. Deliverables 
+a. Code Submission 
+Submit the complete implementation with the following folder structure in your GitHub repository: 
+project/ 
+├── English/ 
+│   ├── train.py 
+│   ├── preprocess.py 
+│   ├── inference.py 
+│   ├── config.yaml 
+│   └── checkpoints/ 
+├── Telugu/ 
+│   ├── train.py 
+│   ├── preprocess.py 
+│   ├── inference.py 
+│   ├── config.yaml 
+│   └── checkpoints/ 
+├── Results/ 
+│   ├── English/ 
+│   │   ├── training_loss.png 
+│   │   ├── validation_loss.png 
+│   │   ├── test_generated_audios/ 
+│   │   └── variance_adaptor_plots/ 
+│   │       ├── duration/ 
+│   │       ├── pitch/ 
+│   │       └── energy/ 
+│   └── Telugu/ 
+│       ├── training_loss.png 
+│       ├── validation_loss.png 
+│       ├── test_generated_audios/ 
+│       └── variance_adaptor_plots/ 
+│           ├── duration/ 
+│           ├── pitch/ 
+│           └── energy/ 
+├── Report/ 
+│   └── Technical_Report.pdf 
+├── README.md 
+└── requirements.txt 
+Submission Requirements 
+1. Include complete preprocessing, training and inference code for both language models. 
+2. Include the modified files from the selected GitHub implementation and separate configuration files for 
+English and Telugu. 
+3. Include the trained model checkpoints separately for English and Telugu. 
+4. Include training-loss and validation-loss plots for both models. 
+ 
+ 
+5. Include generated audio samples for all five test sentences in each language. 
+6. Include variance-adaptor plots for predicted duration, pitch (F0) and energy for each test sentence, for both 
+languages. 
+7. Maintain the specified folder structure in the GitHub repository. 
+Technical Report 
+The report must include the following details and analysis: 
+• Implementation approach, architecture components used from the reference implementation, and 
+modifications made for English and Telugu. 
+• Dataset selection, subsampling, preprocessing, train/validation split, and training configuration for each 
+language. 
+• Analysis of training and validation loss curves, including convergence behaviour and any instability or 
+overfitting observed. 
+• Observations on the generated speech, including pronunciation, and overall speech quality for the provided 
+each test sentence. 
+• Analysis of the variance-adaptor plots for duration, pitch (F0) and energy, with explanations of the 
+observed patterns for each of the test sentence. 
+• Comparative observations between the English and Telugu models, including limitations, failures and 
+possible improvements based on the test sentences that are provided. 
+• Reproducibility details, including software dependencies, configuration files and commands required to 
+preprocess, train and run inference. 
+b. GitHub Repository Submission 
+• Create a GitHub repository containing the complete project. 
+• Ensure that the repository is publicly accessible. 
+• Submit the GitHub repository URL through the assignment submission form. 
+• Ensure that all code, results, checkpoints and the technical report are accessible for evaluation. 
+Note: If model checkpoints exceed GitHub's file-size limits, use Git LFS or provide an accessible external 
+download link in the README. Ensure that the link remains accessible during evaluation. 

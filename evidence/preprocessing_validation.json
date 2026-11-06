@@ -1,0 +1,45 @@
+{
+  "shard": "Telugu/data/train-00001-of-00004.parquet",
+  "row_index": 1575,
+  "seconds": 0.6620408163265306,
+  "original_seconds": 0.6620408163265306,
+  "checks": {
+    "tokens": {
+      "shape": [
+        11
+      ],
+      "matches_original": true,
+      "max_absolute_error": null
+    },
+    "mel": {
+      "shape": [
+        58,
+        80
+      ],
+      "matches_original": true,
+      "max_absolute_error": 0.0
+    },
+    "duration": {
+      "shape": [
+        11
+      ],
+      "matches_original": true,
+      "max_absolute_error": 0.0
+    },
+    "pitch": {
+      "shape": [
+        11
+      ],
+      "matches_original": true,
+      "max_absolute_error": 0.0
+    },
+    "energy": {
+      "shape": [
+        11
+      ],
+      "matches_original": true,
+      "max_absolute_error": 0.0
+    }
+  },
+  "note": "One available raw Telugu clip; exact feature-archive comparison is blocked because original feature ZIPs are absent."
+}

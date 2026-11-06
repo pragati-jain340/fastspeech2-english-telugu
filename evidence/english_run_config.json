@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "batch_size": 4,
+  "max_epochs": 50,
+  "sample_every": 5,
+  "sample_rate": 22050,
+  "hop": 256,
+  "fft": 1024,
+  "window": "hann",
+  "center": true,
+  "pad_mode": "reflect",
+  "n_mels": 80,
+  "fmax": 8000,
+  "models": [
+    "frame_prosody",
+    "character_baseline"
+  ],
+  "frontend": "existing Section 19 romanized character features and MMS durations",
+  "frame_f0": "TorchCREPE tiny, 16kHz, 10ms hop, 65-500 Hz, periodicity>=0.25",
+  "source_feature_dir": "/kaggle/working/english_project/features/mms_char_crepe_gpu_v1",
+  "pilot": "english_frame_pilot.py",
+  "note": "Character and frame runs have identical model size, shuffles, mel settings, and update budgets."
+}
