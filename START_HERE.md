@@ -64,7 +64,7 @@ Fill the first code cell of your selected notebook:
 > **URLs vs paths:** `REPO_URL` is a URL. `BACKUP_DIR` and `EXISTING_REPO` are filesystem paths, not Drive sharing links. In Colab's Files panel, use **Copy path** after mounting Drive.
 
 ```python
-REPO_URL = "https://github.com/pragati-jain340/fastspeech2-english-telugu.git"  # Replace with the real URL
+REPO_URL = "https://github.com/pragati-jain340/fastspeech2-english-telugu.git"  # Public project repository
 EXISTING_REPO = ""  # Leave blank when cloning
 DATA_ROOT = "/content/drive/MyDrive/FastSpeech2_Assignment"
 MOUNT_DRIVE = True
